@@ -1,7 +1,7 @@
 {
-  "version": 6,
+  "version": 7,
   "updated_at": "2026-04-17",
-  "total_images": 52,
+  "total_images": 54,
   "messages": [
     { "id": "c001", "category": "cuma", "text": "Cuma nurundan, Kuran sırrından payınıza bereket düşsün. Hayırlı Cumalar." },
     { "id": "c002", "category": "cuma", "text": "Rabbim bu Cuma hürmetine tüm dertlerinize derman versin." },
@@ -55,6 +55,8 @@
     { "id": "c050", "category": "cuma", "text": "Cuma bereketi sofranıza, Cuma huzuru gönlünüze dolsun." },
     { "id": "c051", "category": "cuma", "text": "Rabbim Cuma hürmetine bizleri cennet ehlinden eylesin." },
     { "id": "c052", "category": "cuma", "text": "Mübarek Cumanız; imanınıza kuvvet, yuvanıza rahmet getirsin." },
+    { "id": "c053", "category": "cuma", "text": "Cuma'nın nurundan, selavatın bereketinden nasibiniz bol olsun. Hayırlı Cumalar." },
+    { "id": "c054", "category": "cuma", "text": "Rabbim bu Cuma hürmetine kalbinize sekinet, yuvanıza huzur indirsin." },
 
     { "id": "k001", "category": "kandil", "text": "Kandiliniz mübarek olsun. Dualarınız kabul, gönlünüz nurla dolu olsun." },
     { "id": "k002", "category": "kandil", "text": "Bu mübarek gecenin feyzi ve bereketi üzerinize olsun." },
@@ -108,6 +110,8 @@
     { "id": "k050", "category": "kandil", "text": "Mübarek gecenin hürmetine Rabbim dertlilerimize derman, hastalarımıza şifa versin." },
     { "id": "k051", "category": "kandil", "text": "Kandilde Kuran ile hem hâl olan gönüller en büyük hazineye kavuşur." },
     { "id": "k052", "category": "kandil", "text": "Kandiliniz mübarek olsun; Rabbim hepimizi sırat-ı müstakim üzere sabit kılsın." },
+    { "id": "k053", "category": "kandil", "text": "Kandil gecesinde dualarınıza âmin, tövbelerinize icabet nasip olsun." },
+    { "id": "k054", "category": "kandil", "text": "Bu mübarek gecenin feyzi gönlünüze, nuru hanenize sirayet etsin." },
 
     { "id": "b001", "category": "bayram", "text": "Bayramınız mübarek olsun. Sağlık, huzur ve mutluluk getirsin." },
     { "id": "b002", "category": "bayram", "text": "Sevdiklerinizle birlikte nice mutlu, huzurlu bayramlara." },
@@ -160,6 +164,8 @@
     { "id": "b049", "category": "bayram", "text": "Bayramın rahmeti çocukların gülüşünde, büyüklerin duasında saklıdır." },
     { "id": "b050", "category": "bayram", "text": "Rabbim bayramın hürmetine bizleri cennet bayramına da eriştirsin." },
     { "id": "b051", "category": "bayram", "text": "Bayramın bereketi sadaka olan ellerde katlanarak büyüsün." },
-    { "id": "b052", "category": "bayram", "text": "Hayırlı bayramlar; gönlünüz hep huzurlu, yolunuz hep hayır olsun." }
+    { "id": "b052", "category": "bayram", "text": "Hayırlı bayramlar; gönlünüz hep huzurlu, yolunuz hep hayır olsun." },
+    { "id": "b053", "category": "bayram", "text": "Bayramın huzuru gönlünüze, neşesi yüzünüze, bereketi sofranıza dolsun." },
+    { "id": "b054", "category": "bayram", "text": "Bu bayram sevdiklerinizle hep bir arada, dualarınızla hep huzurlu olun." }
   ]
 }
