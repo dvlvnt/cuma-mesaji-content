@@ -1,171 +1,3308 @@
 {
-  "version": 7,
-  "updated_at": "2026-04-17",
+  "version": 8,
+  "updated_at": "2026-04-18",
   "total_images": 54,
+  "total_messages": 660,
   "messages": [
-    { "id": "c001", "category": "cuma", "text": "Cuma nurundan, Kuran sırrından payınıza bereket düşsün. Hayırlı Cumalar." },
-    { "id": "c002", "category": "cuma", "text": "Rabbim bu Cuma hürmetine tüm dertlerinize derman versin." },
-    { "id": "c003", "category": "cuma", "text": "Cuma gününüz mübarek, dualarınız kabul olsun." },
-    { "id": "c004", "category": "cuma", "text": "Gönlünüzden geçen tüm güzellikler Cuma hürmetine gerçek olsun." },
-    { "id": "c005", "category": "cuma", "text": "Bu mübarek Cuma gününde rahmet kapıları sizlere ardına kadar açılsın." },
-    { "id": "c006", "category": "cuma", "text": "Yüreğinizden dökülen duaların Arşa ulaştığı bir Cuma olsun." },
-    { "id": "c007", "category": "cuma", "text": "Hayırlı Cumalar. Rabbim imanınızı kuvvetli, yolunuzu aydınlık kılsın." },
-    { "id": "c008", "category": "cuma", "text": "Cuma günü melekler dua edenlere âmin der. Hayırlı Cumalar." },
-    { "id": "c009", "category": "cuma", "text": "Kalbiniz huzur, eviniz bereket, yolunuz nur olsun. Hayırlı Cumalar." },
-    { "id": "c010", "category": "cuma", "text": "Rahmet kapılarının açıldığı bu günde dualarınız kabul olsun." },
-    { "id": "c011", "category": "cuma", "text": "Cuma, mü'minin bayramıdır. Bayramınız mübarek olsun." },
-    { "id": "c012", "category": "cuma", "text": "Allah'ın selamı, rahmeti ve bereketi üzerinize olsun. Hayırlı Cumalar." },
-    { "id": "c013", "category": "cuma", "text": "Bu Cuma okuduğunuz her besmele, yaşadığınız her zorluğa kalkan olsun." },
-    { "id": "c014", "category": "cuma", "text": "Cuma sabahının feyzi, rahmeti ve bereketi üzerinize olsun." },
-    { "id": "c015", "category": "cuma", "text": "Gönlünüz Kuran ile aydınlansın, duanız Rabbe ulaşsın. Hayırlı Cumalar." },
-    { "id": "c016", "category": "cuma", "text": "Rabbim bu Cuma hürmetine evinize huzur, sofranıza bereket versin." },
-    { "id": "c017", "category": "cuma", "text": "Cuma günü yapılan dualar reddedilmez. Rabbim sizi mahrum bırakmasın." },
-    { "id": "c018", "category": "cuma", "text": "Selavatın en güzeli, duanın en hâlisi sizinle olsun. Hayırlı Cumalar." },
-    { "id": "c019", "category": "cuma", "text": "Kalbiniz iman ile, gönlünüz rahmet ile dolsun. Cumanız mübarek olsun." },
-    { "id": "c020", "category": "cuma", "text": "Bu Cuma Rabbim gönlünüze ferahlık, yuvanıza mutluluk nasip etsin." },
-    { "id": "c021", "category": "cuma", "text": "Allah'ın rahmet deryası, Cuma hürmetine üzerinize yağsın." },
-    { "id": "c022", "category": "cuma", "text": "Duası dudaklarında, selavatı kalbinde olanlara Cuma mübarek olsun." },
-    { "id": "c023", "category": "cuma", "text": "Cuma günü rahmet kapıları açılır; siz de o rahmete ortak olun." },
-    { "id": "c024", "category": "cuma", "text": "Hayırlı Cumalar. Kabe'nin rayihası, Medine'nin feyzi üzerinize olsun." },
-    { "id": "c025", "category": "cuma", "text": "Cuma nuruyla aydınlanan kalpler hiç kararmaz. Cumanız mübarek olsun." },
-    { "id": "c026", "category": "cuma", "text": "Rabbim bu Cuma hürmetine hastalarımıza şifa, dertlilerimize derman versin." },
-    { "id": "c027", "category": "cuma", "text": "Günahlarımızın bağışlandığı, dualarımızın kabul olduğu bir Cuma olsun." },
-    { "id": "c028", "category": "cuma", "text": "Her Cuma yeni bir umuttur. Umudunuz hiç tükenmesin. Hayırlı Cumalar." },
-    { "id": "c029", "category": "cuma", "text": "Gönüllerin ferahlandığı, dileklerin gerçek olduğu bir Cuma olsun." },
-    { "id": "c030", "category": "cuma", "text": "Rahman'ın selamı, Resul'ün şefaati üzerinize olsun. Hayırlı Cumalar." },
-    { "id": "c031", "category": "cuma", "text": "Cuma namazının huzurunu yüreğinize, bereketini hanenize dileyenlerdenim." },
-    { "id": "c032", "category": "cuma", "text": "Bu Cuma Rabbim dualarınıza icabet etsin, yolunuzu açsın." },
-    { "id": "c033", "category": "cuma", "text": "Gönlünüz İslam nuru ile aydınlansın. Hayırlı Cumalar." },
-    { "id": "c034", "category": "cuma", "text": "Cuma sabahı okunan selavatlar sizi günahlardan arındırsın." },
-    { "id": "c035", "category": "cuma", "text": "Hayırlı Cumalar. Rabbim sizi iki cihanda aziz eylesin." },
-    { "id": "c036", "category": "cuma", "text": "Cuma hürmetine kalbiniz sevgi, gönlünüz şükür ile dolsun." },
-    { "id": "c037", "category": "cuma", "text": "Rahmetin, bereketin ve mağfiretin bol olduğu bir Cuma olsun." },
-    { "id": "c038", "category": "cuma", "text": "Cuma günü dualar arşa yükselir; siz de gönlünüzdekini söyleyin." },
-    { "id": "c039", "category": "cuma", "text": "Bu Cuma Rabbim bizi kul hakkından, haksız kazançtan uzak tutsun." },
-    { "id": "c040", "category": "cuma", "text": "Hayırlı Cumalar. Allah razı olduğu işleri bizlere nasip etsin." },
-    { "id": "c041", "category": "cuma", "text": "Cuma, tevbelerin kabul olduğu, günahların bağışlandığı gündür." },
-    { "id": "c042", "category": "cuma", "text": "Bu Cuma dualarınızın kabulü için âmin diyen bir kardeşiniz olsun." },
-    { "id": "c043", "category": "cuma", "text": "Cuma gününün bereketi yuvanıza sirayet etsin. Hayırlı Cumalar." },
-    { "id": "c044", "category": "cuma", "text": "Rabbim bu Cuma hürmetine kalbinize ferahlık, rızkınıza genişlik versin." },
-    { "id": "c045", "category": "cuma", "text": "Cuma günü Kuran'la buluşan gönüller hiç yorulmaz." },
-    { "id": "c046", "category": "cuma", "text": "Hayırlı Cumalar. Gönlünüzün her köşesi hidayet nuru ile dolsun." },
-    { "id": "c047", "category": "cuma", "text": "Cuma hürmetine Rabbim vatanımıza huzur, milletimize birlik versin." },
-    { "id": "c048", "category": "cuma", "text": "Bu mübarek Cuma günü her işiniz hayra, her adımınız sevaba dönüşsün." },
-    { "id": "c049", "category": "cuma", "text": "Allah'ın selamı, Resulünün aşkı üzerinize olsun. Hayırlı Cumalar." },
-    { "id": "c050", "category": "cuma", "text": "Cuma bereketi sofranıza, Cuma huzuru gönlünüze dolsun." },
-    { "id": "c051", "category": "cuma", "text": "Rabbim Cuma hürmetine bizleri cennet ehlinden eylesin." },
-    { "id": "c052", "category": "cuma", "text": "Mübarek Cumanız; imanınıza kuvvet, yuvanıza rahmet getirsin." },
-    { "id": "c053", "category": "cuma", "text": "Cuma'nın nurundan, selavatın bereketinden nasibiniz bol olsun. Hayırlı Cumalar." },
-    { "id": "c054", "category": "cuma", "text": "Rabbim bu Cuma hürmetine kalbinize sekinet, yuvanıza huzur indirsin." },
-
-    { "id": "k001", "category": "kandil", "text": "Kandiliniz mübarek olsun. Dualarınız kabul, gönlünüz nurla dolu olsun." },
-    { "id": "k002", "category": "kandil", "text": "Bu mübarek gecenin feyzi ve bereketi üzerinize olsun." },
-    { "id": "k003", "category": "kandil", "text": "Kandil geceniz hayırlara vesile olsun. Rabbim tüm dualarınızı kabul etsin." },
-    { "id": "k004", "category": "kandil", "text": "Allah'ın rahmeti üzerinize yağsın, kandiliniz mübarek olsun." },
-    { "id": "k005", "category": "kandil", "text": "Regaib Kandili'nin feyzi ömrünüze bereket katsın." },
-    { "id": "k006", "category": "kandil", "text": "Mirac Kandili'nde göklere yükselen dualar arasında isminiz de olsun." },
-    { "id": "k007", "category": "kandil", "text": "Berat Kandili'nde sayfanız tertemiz, defteriniz sevaplarla dolu olsun." },
-    { "id": "k008", "category": "kandil", "text": "Bin aydan hayırlı Kadir Gecesi'nin bereketi üzerinize olsun." },
-    { "id": "k009", "category": "kandil", "text": "Mevlid Kandili'nde Peygamber'in şefaati üzerinize olsun." },
-    { "id": "k010", "category": "kandil", "text": "Bu mübarek gecede kalbinizden geçen tüm hayırlı dualar kabul olsun." },
-    { "id": "k011", "category": "kandil", "text": "Kandil kandil yanan umutlarınız hiç sönmesin. Kandiliniz mübarek olsun." },
-    { "id": "k012", "category": "kandil", "text": "Rabbim bu mübarek gecenin hürmetine tüm İslam âlemini aziz eylesin." },
-    { "id": "k013", "category": "kandil", "text": "Gece boyunca edilen duaların kabul olduğu bir kandil olsun sizlere." },
-    { "id": "k014", "category": "kandil", "text": "Kandiliniz mübarek, gönlünüz huzurlu, yüreğiniz imanla dolu olsun." },
-    { "id": "k015", "category": "kandil", "text": "Bu mübarek gecede rahmet kapıları sonuna kadar açık; dualarınızı esirgemeyin." },
-    { "id": "k016", "category": "kandil", "text": "Kandil sabahında huzurla uyanmak nasip olsun. Hayırlı kandiller." },
-    { "id": "k017", "category": "kandil", "text": "Allah'ın mağfireti, Peygamber'in şefaati üzerinize olsun. Kandiliniz mübarek." },
-    { "id": "k018", "category": "kandil", "text": "Kandil gecesinin bereketi evinize, huzuru yüreğinize dolsun." },
-    { "id": "k019", "category": "kandil", "text": "Bu mübarek gecede affedilen kullar arasında ismimiz de olsun inşallah." },
-    { "id": "k020", "category": "kandil", "text": "Mübarek kandil, sevenlerinizin yüreğine huzur, gönlünüze neşe getirsin." },
-    { "id": "k021", "category": "kandil", "text": "Rahmet rüzgârlarının estiği bu gecede duanız eksik, sevgi niz daim olsun." },
-    { "id": "k022", "category": "kandil", "text": "Kandiliniz mübarek olsun; Rabbim bizi rahmetinden mahrum bırakmasın." },
-    { "id": "k023", "category": "kandil", "text": "Bu mübarek gece hürmetine Rabbim geçmişlerimize rahmet eylesin." },
-    { "id": "k024", "category": "kandil", "text": "Kandil gecesinin nuru evinizi, bereketi soyunuzu kuşatsın." },
-    { "id": "k025", "category": "kandil", "text": "Dualar bu gece kabul olur; esirgemeyin. Kandiliniz mübarek olsun." },
-    { "id": "k026", "category": "kandil", "text": "Kandil geceleri ruhumuzun bayramıdır. Bayramınız mübarek olsun." },
-    { "id": "k027", "category": "kandil", "text": "Allah'a yakın olmanın huzurunu yaşadığınız bir kandil olsun." },
-    { "id": "k028", "category": "kandil", "text": "Rabbim bu mübarek gecenin hürmetine dertlerimize derman versin." },
-    { "id": "k029", "category": "kandil", "text": "Kandil geceniz aydınlık, yarınlarınız hayırlı olsun." },
-    { "id": "k030", "category": "kandil", "text": "Bu mübarek gecede Rabbim imanımızı kâmil, sabrımızı bol eylesin." },
-    { "id": "k031", "category": "kandil", "text": "Kandilin feyzi kalbinize, bereketi ömrünüze dolsun." },
-    { "id": "k032", "category": "kandil", "text": "Bu gece yapılan tövbelerin kabul olduğu kullardan olmak duasıyla." },
-    { "id": "k033", "category": "kandil", "text": "Kandiliniz mübarek; Rabbim gönlünüzdeki hayırlı muradınızı nasip etsin." },
-    { "id": "k034", "category": "kandil", "text": "Bu mübarek gecede Peygamber Efendimizin şefaati üzerinize olsun." },
-    { "id": "k035", "category": "kandil", "text": "Gönlünüzden geçen her hayırlı dileğin kabul olduğu bir kandil olsun." },
-    { "id": "k036", "category": "kandil", "text": "Kandil gecesinde dökülen gözyaşları en makbul dualardır." },
-    { "id": "k037", "category": "kandil", "text": "Bu mübarek gecede vatanımıza, milletimize ve İslam âlemine hayır isteriz." },
-    { "id": "k038", "category": "kandil", "text": "Kandilin huzuru yüreğinize, nuru eviniz ve yolunuza dolsun." },
-    { "id": "k039", "category": "kandil", "text": "Bu gece bağışlanan kullar arasında olmak en büyük kazanç." },
-    { "id": "k040", "category": "kandil", "text": "Rabbim bu mübarek gecenin hürmetine bizleri sevdiklerinden ayırmasın." },
-    { "id": "k041", "category": "kandil", "text": "Kandiliniz mübarek; duanız makbul, niyetiniz hâlis olsun." },
-    { "id": "k042", "category": "kandil", "text": "Mübarek gecenin rahmet yağmurları tüm günahlarınızı silip götürsün." },
-    { "id": "k043", "category": "kandil", "text": "Kandil bir fırsattır; Rabbimizle baş başa kalalım, dualarla dolalım." },
-    { "id": "k044", "category": "kandil", "text": "Gönlünüzün huzuru, yuvanızın bereketi için dua ettiğimiz bir gecedir bu." },
-    { "id": "k045", "category": "kandil", "text": "Kandil gecesi kalp aynamızı temizleyelim ki Rahman'ın nuru yansısın." },
-    { "id": "k046", "category": "kandil", "text": "Allah bu mübarek geceyi tüm ümmet için rahmet vesilesi kılsın." },
-    { "id": "k047", "category": "kandil", "text": "Kandil geceniz huzurlu, sabahınız aydınlık, gönlünüz nurlu olsun." },
-    { "id": "k048", "category": "kandil", "text": "Bu gece yapılan dualarımızda sevdiklerimizin de ismi geçsin." },
-    { "id": "k049", "category": "kandil", "text": "Kandilin feyzinden, bereketinden ve rahmetinden nasipdar olmak dileğiyle." },
-    { "id": "k050", "category": "kandil", "text": "Mübarek gecenin hürmetine Rabbim dertlilerimize derman, hastalarımıza şifa versin." },
-    { "id": "k051", "category": "kandil", "text": "Kandilde Kuran ile hem hâl olan gönüller en büyük hazineye kavuşur." },
-    { "id": "k052", "category": "kandil", "text": "Kandiliniz mübarek olsun; Rabbim hepimizi sırat-ı müstakim üzere sabit kılsın." },
-    { "id": "k053", "category": "kandil", "text": "Kandil gecesinde dualarınıza âmin, tövbelerinize icabet nasip olsun." },
-    { "id": "k054", "category": "kandil", "text": "Bu mübarek gecenin feyzi gönlünüze, nuru hanenize sirayet etsin." },
-
-    { "id": "b001", "category": "bayram", "text": "Bayramınız mübarek olsun. Sağlık, huzur ve mutluluk getirsin." },
-    { "id": "b002", "category": "bayram", "text": "Sevdiklerinizle birlikte nice mutlu, huzurlu bayramlara." },
-    { "id": "b003", "category": "bayram", "text": "Bayramın bereketi evinize, huzuru kalbinize dolsun." },
-    { "id": "b004", "category": "bayram", "text": "Rabbim bu bayramda ailenizden, sevdiklerinizden ayrı koymasın." },
-    { "id": "b005", "category": "bayram", "text": "Ramazan Bayramı'nın coşkusu yüreğinize, bereketi sofranıza yansısın." },
-    { "id": "b006", "category": "bayram", "text": "Kurban Bayramı'nın hikmeti ve bereketi ömrünüze sirayet etsin." },
-    { "id": "b007", "category": "bayram", "text": "Bayram sabahının huzurunu tüm seneye yaymak nasip olsun." },
-    { "id": "b008", "category": "bayram", "text": "Bayramınız kutlu, yarınlarınız umutlu olsun." },
-    { "id": "b009", "category": "bayram", "text": "Sevenlerinizle dolu, sevinçlerle geçen bir bayram olsun." },
-    { "id": "b010", "category": "bayram", "text": "Allah bu bayramı birlik, beraberlik ve kardeşlik vesilesi kılsın." },
-    { "id": "b011", "category": "bayram", "text": "Bayramın neşesi yüzünüzden, huzuru yüreğinizden eksik olmasın." },
-    { "id": "b012", "category": "bayram", "text": "Küskünlerin barıştığı, hasretlerin bittiği bir bayram olsun." },
-    { "id": "b013", "category": "bayram", "text": "Bayramınızı en içten dileklerimle kutlarım. Hayırlı bayramlar." },
-    { "id": "b014", "category": "bayram", "text": "Rabbim nice bayramlara sağlık ve huzur içinde eriştirsin." },
-    { "id": "b015", "category": "bayram", "text": "Bu bayram, gönüllerin birleştiği, kalplerin yumuşadığı bir bayram olsun." },
-    { "id": "b016", "category": "bayram", "text": "Bayramınız, doğan her güneşle yeni umutlar getirsin." },
-    { "id": "b017", "category": "bayram", "text": "Ellerinizin değdiği her şey bereketlensin. Bayramınız mübarek olsun." },
-    { "id": "b018", "category": "bayram", "text": "Bayramın manevi coşkusu tüm İslam âleminin üzerine olsun." },
-    { "id": "b019", "category": "bayram", "text": "Dua dolu, sevgi dolu, huzur dolu bir bayram dilerim." },
-    { "id": "b020", "category": "bayram", "text": "Bayram yalnız giyinmek değil, gönülleri de süslemektir. Bayramınız mübarek." },
-    { "id": "b021", "category": "bayram", "text": "Bayramın rahmeti, sevdiklerinizle birlikte ömrünüze katık olsun." },
-    { "id": "b022", "category": "bayram", "text": "Sevdiklerinize kavuşmak en büyük bayram. Bayramınız kutlu olsun." },
-    { "id": "b023", "category": "bayram", "text": "Bu bayram, gözyaşlarınızın dindiği, yüzünüzün güldüğü bir bayram olsun." },
-    { "id": "b024", "category": "bayram", "text": "Allah rızası için kesilen kurbanlar, yapılan iyilikler kabul olsun." },
-    { "id": "b025", "category": "bayram", "text": "Bayram sevincini yaşamak nasip olanlardan eyle Ya Rabbi." },
-    { "id": "b026", "category": "bayram", "text": "Bayramlarınız güzelliklerle dolu, yüreğiniz ferah olsun." },
-    { "id": "b027", "category": "bayram", "text": "Bayramın bereketi rızkınıza, neşesi yuvanıza yansısın." },
-    { "id": "b028", "category": "bayram", "text": "Bu bayram, dualarımızın en güzeline vesile olsun. Hayırlı bayramlar." },
-    { "id": "b029", "category": "bayram", "text": "Rabbim bizi bayramların hakkını vererek yaşayan kullardan eylesin." },
-    { "id": "b030", "category": "bayram", "text": "Nice sağlıklı, huzurlu ve bereketli bayramlara. Bayramınız mübarek olsun." },
-    { "id": "b031", "category": "bayram", "text": "Bayramın coşkusu yüzünüzde, bereketi sofranızda eksik olmasın." },
-    { "id": "b032", "category": "bayram", "text": "Bu bayram, gözden uzak gönülden yakın olanlara selam olsun." },
-    { "id": "b033", "category": "bayram", "text": "Bayramınızı en kalbi duygularla kutlar, sağlıklı günler dilerim." },
-    { "id": "b034", "category": "bayram", "text": "Rabbim nice bayramları sevdiklerimizle birlikte görmeyi nasip etsin." },
-    { "id": "b035", "category": "bayram", "text": "Bayramınız mübarek; dualarınız kabul, yolunuz açık olsun." },
-    { "id": "b036", "category": "bayram", "text": "Bayram sevinciniz bin kat olsun, kederleriniz tarihe karışsın." },
-    { "id": "b037", "category": "bayram", "text": "Bu bayram, dargınların barıştığı, gönüllerin birleştiği bir bayram olsun." },
-    { "id": "b038", "category": "bayram", "text": "Bayram sofraları sevdiklerinizle dolsun, yürekler huzurla bulsun." },
-    { "id": "b039", "category": "bayram", "text": "Rabbim bu bayramda yetimin yüzünü güldürenlerden, hayrı sevenlerden eylesin." },
-    { "id": "b040", "category": "bayram", "text": "Bayramın mânası, sevdiklerinizle birlikte yaşadığınız her anda saklıdır." },
-    { "id": "b041", "category": "bayram", "text": "Bayramınız kutlu, ömrünüz uzun, yuvanız mutlu olsun." },
-    { "id": "b042", "category": "bayram", "text": "Bu bayram bereket, sağlık ve huzur sizden hiç eksik olmasın." },
-    { "id": "b043", "category": "bayram", "text": "Bayramın tatlı heyecanı, çocukların neşesi tüm yuvaları sarsın." },
-    { "id": "b044", "category": "bayram", "text": "Rabbim bu bayramı kardeşliğimize, birliğimize vesile kılsın." },
-    { "id": "b045", "category": "bayram", "text": "Bayramınız kutlu; gözleriniz sevdiklerinizi görmekten mahrum kalmasın." },
-    { "id": "b046", "category": "bayram", "text": "Bayramın bereketi ocağınıza, sıcaklığı yüreğinize dolsun." },
-    { "id": "b047", "category": "bayram", "text": "Bu bayram, ayrılıkların sona erdiği, hasretlerin bittiği bir bayram olsun." },
-    { "id": "b048", "category": "bayram", "text": "Bayramınızı tebrik eder, hayırlı ve huzurlu günler dilerim." },
-    { "id": "b049", "category": "bayram", "text": "Bayramın rahmeti çocukların gülüşünde, büyüklerin duasında saklıdır." },
-    { "id": "b050", "category": "bayram", "text": "Rabbim bayramın hürmetine bizleri cennet bayramına da eriştirsin." },
-    { "id": "b051", "category": "bayram", "text": "Bayramın bereketi sadaka olan ellerde katlanarak büyüsün." },
-    { "id": "b052", "category": "bayram", "text": "Hayırlı bayramlar; gönlünüz hep huzurlu, yolunuz hep hayır olsun." },
-    { "id": "b053", "category": "bayram", "text": "Bayramın huzuru gönlünüze, neşesi yüzünüze, bereketi sofranıza dolsun." },
-    { "id": "b054", "category": "bayram", "text": "Bu bayram sevdiklerinizle hep bir arada, dualarınızla hep huzurlu olun." }
+    {
+      "id": "c001",
+      "category": "cuma",
+      "text": "Cuma nurundan, Kuran sırrından payınıza bereket düşsün. Hayırlı Cumalar."
+    },
+    {
+      "id": "c002",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma hürmetine tüm dertlerinize derman versin."
+    },
+    {
+      "id": "c003",
+      "category": "cuma",
+      "text": "Cuma gününüz mübarek, dualarınız kabul olsun."
+    },
+    {
+      "id": "c004",
+      "category": "cuma",
+      "text": "Gönlünüzden geçen tüm güzellikler Cuma hürmetine gerçek olsun."
+    },
+    {
+      "id": "c005",
+      "category": "cuma",
+      "text": "Bu mübarek Cuma gününde rahmet kapıları sizlere ardına kadar açılsın."
+    },
+    {
+      "id": "c006",
+      "category": "cuma",
+      "text": "Yüreğinizden dökülen duaların Arşa ulaştığı bir Cuma olsun."
+    },
+    {
+      "id": "c007",
+      "category": "cuma",
+      "text": "Hayırlı Cumalar. Rabbim imanınızı kuvvetli, yolunuzu aydınlık kılsın."
+    },
+    {
+      "id": "c008",
+      "category": "cuma",
+      "text": "Cuma günü melekler dua edenlere âmin der. Hayırlı Cumalar."
+    },
+    {
+      "id": "c009",
+      "category": "cuma",
+      "text": "Kalbiniz huzur, eviniz bereket, yolunuz nur olsun. Hayırlı Cumalar."
+    },
+    {
+      "id": "c010",
+      "category": "cuma",
+      "text": "Rahmet kapılarının açıldığı bu günde dualarınız kabul olsun."
+    },
+    {
+      "id": "c011",
+      "category": "cuma",
+      "text": "Cuma, mü'minin bayramıdır. Bayramınız mübarek olsun."
+    },
+    {
+      "id": "c012",
+      "category": "cuma",
+      "text": "Allah'ın selamı, rahmeti ve bereketi üzerinize olsun. Hayırlı Cumalar."
+    },
+    {
+      "id": "c013",
+      "category": "cuma",
+      "text": "Bu Cuma okuduğunuz her besmele, yaşadığınız her zorluğa kalkan olsun."
+    },
+    {
+      "id": "c014",
+      "category": "cuma",
+      "text": "Cuma sabahının feyzi, rahmeti ve bereketi üzerinize olsun."
+    },
+    {
+      "id": "c015",
+      "category": "cuma",
+      "text": "Gönlünüz Kuran ile aydınlansın, duanız Rabbe ulaşsın. Hayırlı Cumalar."
+    },
+    {
+      "id": "c016",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma hürmetine evinize huzur, sofranıza bereket versin."
+    },
+    {
+      "id": "c017",
+      "category": "cuma",
+      "text": "Cuma günü yapılan dualar reddedilmez. Rabbim sizi mahrum bırakmasın."
+    },
+    {
+      "id": "c018",
+      "category": "cuma",
+      "text": "Selavatın en güzeli, duanın en hâlisi sizinle olsun. Hayırlı Cumalar."
+    },
+    {
+      "id": "c019",
+      "category": "cuma",
+      "text": "Kalbiniz iman ile, gönlünüz rahmet ile dolsun. Cumanız mübarek olsun."
+    },
+    {
+      "id": "c020",
+      "category": "cuma",
+      "text": "Bu Cuma Rabbim gönlünüze ferahlık, yuvanıza mutluluk nasip etsin."
+    },
+    {
+      "id": "c021",
+      "category": "cuma",
+      "text": "Allah'ın rahmet deryası, Cuma hürmetine üzerinize yağsın."
+    },
+    {
+      "id": "c022",
+      "category": "cuma",
+      "text": "Duası dudaklarında, selavatı kalbinde olanlara Cuma mübarek olsun."
+    },
+    {
+      "id": "c023",
+      "category": "cuma",
+      "text": "Cuma günü rahmet kapıları açılır; siz de o rahmete ortak olun."
+    },
+    {
+      "id": "c024",
+      "category": "cuma",
+      "text": "Hayırlı Cumalar. Kabe'nin rayihası, Medine'nin feyzi üzerinize olsun."
+    },
+    {
+      "id": "c025",
+      "category": "cuma",
+      "text": "Cuma nuruyla aydınlanan kalpler hiç kararmaz. Cumanız mübarek olsun."
+    },
+    {
+      "id": "c026",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma hürmetine hastalarımıza şifa, dertlilerimize derman versin."
+    },
+    {
+      "id": "c027",
+      "category": "cuma",
+      "text": "Günahlarımızın bağışlandığı, dualarımızın kabul olduğu bir Cuma olsun."
+    },
+    {
+      "id": "c028",
+      "category": "cuma",
+      "text": "Her Cuma yeni bir umuttur. Umudunuz hiç tükenmesin. Hayırlı Cumalar."
+    },
+    {
+      "id": "c029",
+      "category": "cuma",
+      "text": "Gönüllerin ferahlandığı, dileklerin gerçek olduğu bir Cuma olsun."
+    },
+    {
+      "id": "c030",
+      "category": "cuma",
+      "text": "Rahman'ın selamı, Resul'ün şefaati üzerinize olsun. Hayırlı Cumalar."
+    },
+    {
+      "id": "c031",
+      "category": "cuma",
+      "text": "Cuma namazının huzurunu yüreğinize, bereketini hanenize dileyenlerdenim."
+    },
+    {
+      "id": "c032",
+      "category": "cuma",
+      "text": "Bu Cuma Rabbim dualarınıza icabet etsin, yolunuzu açsın."
+    },
+    {
+      "id": "c033",
+      "category": "cuma",
+      "text": "Gönlünüz İslam nuru ile aydınlansın. Hayırlı Cumalar."
+    },
+    {
+      "id": "c034",
+      "category": "cuma",
+      "text": "Cuma sabahı okunan selavatlar sizi günahlardan arındırsın."
+    },
+    {
+      "id": "c035",
+      "category": "cuma",
+      "text": "Hayırlı Cumalar. Rabbim sizi iki cihanda aziz eylesin."
+    },
+    {
+      "id": "c036",
+      "category": "cuma",
+      "text": "Cuma hürmetine kalbiniz sevgi, gönlünüz şükür ile dolsun."
+    },
+    {
+      "id": "c037",
+      "category": "cuma",
+      "text": "Rahmetin, bereketin ve mağfiretin bol olduğu bir Cuma olsun."
+    },
+    {
+      "id": "c038",
+      "category": "cuma",
+      "text": "Cuma günü dualar arşa yükselir; siz de gönlünüzdekini söyleyin."
+    },
+    {
+      "id": "c039",
+      "category": "cuma",
+      "text": "Bu Cuma Rabbim bizi kul hakkından, haksız kazançtan uzak tutsun."
+    },
+    {
+      "id": "c040",
+      "category": "cuma",
+      "text": "Hayırlı Cumalar. Allah razı olduğu işleri bizlere nasip etsin."
+    },
+    {
+      "id": "c041",
+      "category": "cuma",
+      "text": "Cuma, tevbelerin kabul olduğu, günahların bağışlandığı gündür."
+    },
+    {
+      "id": "c042",
+      "category": "cuma",
+      "text": "Bu Cuma dualarınızın kabulü için âmin diyen bir kardeşiniz olsun."
+    },
+    {
+      "id": "c043",
+      "category": "cuma",
+      "text": "Cuma gününün bereketi yuvanıza sirayet etsin. Hayırlı Cumalar."
+    },
+    {
+      "id": "c044",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma hürmetine kalbinize ferahlık, rızkınıza genişlik versin."
+    },
+    {
+      "id": "c045",
+      "category": "cuma",
+      "text": "Cuma günü Kuran'la buluşan gönüller hiç yorulmaz."
+    },
+    {
+      "id": "c046",
+      "category": "cuma",
+      "text": "Hayırlı Cumalar. Gönlünüzün her köşesi hidayet nuru ile dolsun."
+    },
+    {
+      "id": "c047",
+      "category": "cuma",
+      "text": "Cuma hürmetine Rabbim vatanımıza huzur, milletimize birlik versin."
+    },
+    {
+      "id": "c048",
+      "category": "cuma",
+      "text": "Bu mübarek Cuma günü her işiniz hayra, her adımınız sevaba dönüşsün."
+    },
+    {
+      "id": "c049",
+      "category": "cuma",
+      "text": "Allah'ın selamı, Resulünün aşkı üzerinize olsun. Hayırlı Cumalar."
+    },
+    {
+      "id": "c050",
+      "category": "cuma",
+      "text": "Cuma bereketi sofranıza, Cuma huzuru gönlünüze dolsun."
+    },
+    {
+      "id": "c051",
+      "category": "cuma",
+      "text": "Rabbim Cuma hürmetine bizleri cennet ehlinden eylesin."
+    },
+    {
+      "id": "c052",
+      "category": "cuma",
+      "text": "Mübarek Cumanız; imanınıza kuvvet, yuvanıza rahmet getirsin."
+    },
+    {
+      "id": "c053",
+      "category": "cuma",
+      "text": "Cuma'nın nurundan, selavatın bereketinden nasibiniz bol olsun. Hayırlı Cumalar."
+    },
+    {
+      "id": "c054",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma hürmetine kalbinize sekinet, yuvanıza huzur indirsin."
+    },
+    {
+      "id": "k001",
+      "category": "kandil",
+      "text": "Kandiliniz mübarek olsun. Dualarınız kabul, gönlünüz nurla dolu olsun."
+    },
+    {
+      "id": "k002",
+      "category": "kandil",
+      "text": "Bu mübarek gecenin feyzi ve bereketi üzerinize olsun."
+    },
+    {
+      "id": "k003",
+      "category": "kandil",
+      "text": "Kandil geceniz hayırlara vesile olsun. Rabbim tüm dualarınızı kabul etsin."
+    },
+    {
+      "id": "k004",
+      "category": "kandil",
+      "text": "Allah'ın rahmeti üzerinize yağsın, kandiliniz mübarek olsun."
+    },
+    {
+      "id": "k005",
+      "category": "kandil",
+      "text": "Regaib Kandili'nin feyzi ömrünüze bereket katsın."
+    },
+    {
+      "id": "k006",
+      "category": "kandil",
+      "text": "Mirac Kandili'nde göklere yükselen dualar arasında isminiz de olsun."
+    },
+    {
+      "id": "k007",
+      "category": "kandil",
+      "text": "Berat Kandili'nde sayfanız tertemiz, defteriniz sevaplarla dolu olsun."
+    },
+    {
+      "id": "k008",
+      "category": "kandil",
+      "text": "Bin aydan hayırlı Kadir Gecesi'nin bereketi üzerinize olsun."
+    },
+    {
+      "id": "k009",
+      "category": "kandil",
+      "text": "Mevlid Kandili'nde Peygamber'in şefaati üzerinize olsun."
+    },
+    {
+      "id": "k010",
+      "category": "kandil",
+      "text": "Bu mübarek gecede kalbinizden geçen tüm hayırlı dualar kabul olsun."
+    },
+    {
+      "id": "k011",
+      "category": "kandil",
+      "text": "Kandil kandil yanan umutlarınız hiç sönmesin. Kandiliniz mübarek olsun."
+    },
+    {
+      "id": "k012",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek gecenin hürmetine tüm İslam âlemini aziz eylesin."
+    },
+    {
+      "id": "k013",
+      "category": "kandil",
+      "text": "Gece boyunca edilen duaların kabul olduğu bir kandil olsun sizlere."
+    },
+    {
+      "id": "k014",
+      "category": "kandil",
+      "text": "Kandiliniz mübarek, gönlünüz huzurlu, yüreğiniz imanla dolu olsun."
+    },
+    {
+      "id": "k015",
+      "category": "kandil",
+      "text": "Bu mübarek gecede rahmet kapıları sonuna kadar açık; dualarınızı esirgemeyin."
+    },
+    {
+      "id": "k016",
+      "category": "kandil",
+      "text": "Kandil sabahında huzurla uyanmak nasip olsun. Hayırlı kandiller."
+    },
+    {
+      "id": "k017",
+      "category": "kandil",
+      "text": "Allah'ın mağfireti, Peygamber'in şefaati üzerinize olsun. Kandiliniz mübarek."
+    },
+    {
+      "id": "k018",
+      "category": "kandil",
+      "text": "Kandil gecesinin bereketi evinize, huzuru yüreğinize dolsun."
+    },
+    {
+      "id": "k019",
+      "category": "kandil",
+      "text": "Bu mübarek gecede affedilen kullar arasında ismimiz de olsun inşallah."
+    },
+    {
+      "id": "k020",
+      "category": "kandil",
+      "text": "Mübarek kandil, sevenlerinizin yüreğine huzur, gönlünüze neşe getirsin."
+    },
+    {
+      "id": "k021",
+      "category": "kandil",
+      "text": "Rahmet rüzgârlarının estiği bu gecede duanız eksik, sevginiz daim olsun."
+    },
+    {
+      "id": "k022",
+      "category": "kandil",
+      "text": "Kandiliniz mübarek olsun; Rabbim bizi rahmetinden mahrum bırakmasın."
+    },
+    {
+      "id": "k023",
+      "category": "kandil",
+      "text": "Bu mübarek gece hürmetine Rabbim geçmişlerimize rahmet eylesin."
+    },
+    {
+      "id": "k024",
+      "category": "kandil",
+      "text": "Kandil gecesinin nuru evinizi, bereketi soyunuzu kuşatsın."
+    },
+    {
+      "id": "k025",
+      "category": "kandil",
+      "text": "Dualar bu gece kabul olur; esirgemeyin. Kandiliniz mübarek olsun."
+    },
+    {
+      "id": "k026",
+      "category": "kandil",
+      "text": "Kandil geceleri ruhumuzun bayramıdır. Bayramınız mübarek olsun."
+    },
+    {
+      "id": "k027",
+      "category": "kandil",
+      "text": "Allah'a yakın olmanın huzurunu yaşadığınız bir kandil olsun."
+    },
+    {
+      "id": "k028",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek gecenin hürmetine dertlerimize derman versin."
+    },
+    {
+      "id": "k029",
+      "category": "kandil",
+      "text": "Kandil geceniz aydınlık, yarınlarınız hayırlı olsun."
+    },
+    {
+      "id": "k030",
+      "category": "kandil",
+      "text": "Bu mübarek gecede Rabbim imanımızı kâmil, sabrımızı bol eylesin."
+    },
+    {
+      "id": "k031",
+      "category": "kandil",
+      "text": "Kandilin feyzi kalbinize, bereketi ömrünüze dolsun."
+    },
+    {
+      "id": "k032",
+      "category": "kandil",
+      "text": "Bu gece yapılan tövbelerin kabul olduğu kullardan olmak duasıyla."
+    },
+    {
+      "id": "k033",
+      "category": "kandil",
+      "text": "Kandiliniz mübarek; Rabbim gönlünüzdeki hayırlı muradınızı nasip etsin."
+    },
+    {
+      "id": "k034",
+      "category": "kandil",
+      "text": "Bu mübarek gecede Peygamber Efendimizin şefaati üzerinize olsun."
+    },
+    {
+      "id": "k035",
+      "category": "kandil",
+      "text": "Gönlünüzden geçen her hayırlı dileğin kabul olduğu bir kandil olsun."
+    },
+    {
+      "id": "k036",
+      "category": "kandil",
+      "text": "Kandil gecesinde dökülen gözyaşları en makbul dualardır."
+    },
+    {
+      "id": "k037",
+      "category": "kandil",
+      "text": "Bu mübarek gecede vatanımıza, milletimize ve İslam âlemine hayır isteriz."
+    },
+    {
+      "id": "k038",
+      "category": "kandil",
+      "text": "Kandilin huzuru yüreğinize, nuru eviniz ve yolunuza dolsun."
+    },
+    {
+      "id": "k039",
+      "category": "kandil",
+      "text": "Bu gece bağışlanan kullar arasında olmak en büyük kazanç."
+    },
+    {
+      "id": "k040",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek gecenin hürmetine bizleri sevdiklerinden ayırmasın."
+    },
+    {
+      "id": "k041",
+      "category": "kandil",
+      "text": "Kandiliniz mübarek; duanız makbul, niyetiniz hâlis olsun."
+    },
+    {
+      "id": "k042",
+      "category": "kandil",
+      "text": "Mübarek gecenin rahmet yağmurları tüm günahlarınızı silip götürsün."
+    },
+    {
+      "id": "k043",
+      "category": "kandil",
+      "text": "Kandil bir fırsattır; Rabbimizle baş başa kalalım, dualarla dolalım."
+    },
+    {
+      "id": "k044",
+      "category": "kandil",
+      "text": "Gönlünüzün huzuru, yuvanızın bereketi için dua ettiğimiz bir gecedir bu."
+    },
+    {
+      "id": "k045",
+      "category": "kandil",
+      "text": "Kandil gecesi kalp aynamızı temizleyelim ki Rahman'ın nuru yansısın."
+    },
+    {
+      "id": "k046",
+      "category": "kandil",
+      "text": "Allah bu mübarek geceyi tüm ümmet için rahmet vesilesi kılsın."
+    },
+    {
+      "id": "k047",
+      "category": "kandil",
+      "text": "Kandil geceniz huzurlu, sabahınız aydınlık, gönlünüz nurlu olsun."
+    },
+    {
+      "id": "k048",
+      "category": "kandil",
+      "text": "Bu gece yapılan dualarımızda sevdiklerimizin de ismi geçsin."
+    },
+    {
+      "id": "k049",
+      "category": "kandil",
+      "text": "Kandilin feyzinden, bereketinden ve rahmetinden nasipdar olmak dileğiyle."
+    },
+    {
+      "id": "k050",
+      "category": "kandil",
+      "text": "Mübarek gecenin hürmetine Rabbim dertlilerimize derman, hastalarımıza şifa versin."
+    },
+    {
+      "id": "k051",
+      "category": "kandil",
+      "text": "Kandilde Kuran ile hem hâl olan gönüller en büyük hazineye kavuşur."
+    },
+    {
+      "id": "k052",
+      "category": "kandil",
+      "text": "Kandiliniz mübarek olsun; Rabbim hepimizi sırat-ı müstakim üzere sabit kılsın."
+    },
+    {
+      "id": "k053",
+      "category": "kandil",
+      "text": "Kandil gecesinde dualarınıza âmin, tövbelerinize icabet nasip olsun."
+    },
+    {
+      "id": "k054",
+      "category": "kandil",
+      "text": "Bu mübarek gecenin feyzi gönlünüze, nuru hanenize sirayet etsin."
+    },
+    {
+      "id": "b001",
+      "category": "bayram",
+      "text": "Bayramınız mübarek olsun. Sağlık, huzur ve mutluluk getirsin."
+    },
+    {
+      "id": "b002",
+      "category": "bayram",
+      "text": "Sevdiklerinizle birlikte nice mutlu, huzurlu bayramlara."
+    },
+    {
+      "id": "b003",
+      "category": "bayram",
+      "text": "Bayramın bereketi evinize, huzuru kalbinize dolsun."
+    },
+    {
+      "id": "b004",
+      "category": "bayram",
+      "text": "Rabbim bu bayramda ailenizden, sevdiklerinizden ayrı koymasın."
+    },
+    {
+      "id": "b005",
+      "category": "bayram",
+      "text": "Ramazan Bayramı'nın coşkusu yüreğinize, bereketi sofranıza yansısın."
+    },
+    {
+      "id": "b006",
+      "category": "bayram",
+      "text": "Kurban Bayramı'nın hikmeti ve bereketi ömrünüze sirayet etsin."
+    },
+    {
+      "id": "b007",
+      "category": "bayram",
+      "text": "Bayram sabahının huzurunu tüm seneye yaymak nasip olsun."
+    },
+    {
+      "id": "b008",
+      "category": "bayram",
+      "text": "Bayramınız kutlu, yarınlarınız umutlu olsun."
+    },
+    {
+      "id": "b009",
+      "category": "bayram",
+      "text": "Sevenlerinizle dolu, sevinçlerle geçen bir bayram olsun."
+    },
+    {
+      "id": "b010",
+      "category": "bayram",
+      "text": "Allah bu bayramı birlik, beraberlik ve kardeşlik vesilesi kılsın."
+    },
+    {
+      "id": "b011",
+      "category": "bayram",
+      "text": "Bayramın neşesi yüzünüzden, huzuru yüreğinizden eksik olmasın."
+    },
+    {
+      "id": "b012",
+      "category": "bayram",
+      "text": "Küskünlerin barıştığı, hasretlerin bittiği bir bayram olsun."
+    },
+    {
+      "id": "b013",
+      "category": "bayram",
+      "text": "Bayramınızı en içten dileklerimle kutlarım. Hayırlı bayramlar."
+    },
+    {
+      "id": "b014",
+      "category": "bayram",
+      "text": "Rabbim nice bayramlara sağlık ve huzur içinde eriştirsin."
+    },
+    {
+      "id": "b015",
+      "category": "bayram",
+      "text": "Bu bayram, gönüllerin birleştiği, kalplerin yumuşadığı bir bayram olsun."
+    },
+    {
+      "id": "b016",
+      "category": "bayram",
+      "text": "Bayramınız, doğan her güneşle yeni umutlar getirsin."
+    },
+    {
+      "id": "b017",
+      "category": "bayram",
+      "text": "Ellerinizin değdiği her şey bereketlensin. Bayramınız mübarek olsun."
+    },
+    {
+      "id": "b018",
+      "category": "bayram",
+      "text": "Bayramın manevi coşkusu tüm İslam âleminin üzerine olsun."
+    },
+    {
+      "id": "b019",
+      "category": "bayram",
+      "text": "Dua dolu, sevgi dolu, huzur dolu bir bayram dilerim."
+    },
+    {
+      "id": "b020",
+      "category": "bayram",
+      "text": "Bayram yalnız giyinmek değil, gönülleri de süslemektir. Bayramınız mübarek."
+    },
+    {
+      "id": "b021",
+      "category": "bayram",
+      "text": "Bayramın rahmeti, sevdiklerinizle birlikte ömrünüze katık olsun."
+    },
+    {
+      "id": "b022",
+      "category": "bayram",
+      "text": "Sevdiklerinize kavuşmak en büyük bayram. Bayramınız kutlu olsun."
+    },
+    {
+      "id": "b023",
+      "category": "bayram",
+      "text": "Bu bayram, gözyaşlarınızın dindiği, yüzünüzün güldüğü bir bayram olsun."
+    },
+    {
+      "id": "b024",
+      "category": "bayram",
+      "text": "Allah rızası için kesilen kurbanlar, yapılan iyilikler kabul olsun."
+    },
+    {
+      "id": "b025",
+      "category": "bayram",
+      "text": "Bayram sevincini yaşamak nasip olanlardan eyle Ya Rabbi."
+    },
+    {
+      "id": "b026",
+      "category": "bayram",
+      "text": "Bayramlarınız güzelliklerle dolu, yüreğiniz ferah olsun."
+    },
+    {
+      "id": "b027",
+      "category": "bayram",
+      "text": "Bayramın bereketi rızkınıza, neşesi yuvanıza yansısın."
+    },
+    {
+      "id": "b028",
+      "category": "bayram",
+      "text": "Bu bayram, dualarımızın en güzeline vesile olsun. Hayırlı bayramlar."
+    },
+    {
+      "id": "b029",
+      "category": "bayram",
+      "text": "Rabbim bizi bayramların hakkını vererek yaşayan kullardan eylesin."
+    },
+    {
+      "id": "b030",
+      "category": "bayram",
+      "text": "Nice sağlıklı, huzurlu ve bereketli bayramlara. Bayramınız mübarek olsun."
+    },
+    {
+      "id": "b031",
+      "category": "bayram",
+      "text": "Bayramın coşkusu yüzünüzde, bereketi sofranızda eksik olmasın."
+    },
+    {
+      "id": "b032",
+      "category": "bayram",
+      "text": "Bu bayram, gözden uzak gönülden yakın olanlara selam olsun."
+    },
+    {
+      "id": "b033",
+      "category": "bayram",
+      "text": "Bayramınızı en kalbi duygularla kutlar, sağlıklı günler dilerim."
+    },
+    {
+      "id": "b034",
+      "category": "bayram",
+      "text": "Rabbim nice bayramları sevdiklerimizle birlikte görmeyi nasip etsin."
+    },
+    {
+      "id": "b035",
+      "category": "bayram",
+      "text": "Bayramınız mübarek; dualarınız kabul, yolunuz açık olsun."
+    },
+    {
+      "id": "b036",
+      "category": "bayram",
+      "text": "Bayram sevinciniz bin kat olsun, kederleriniz tarihe karışsın."
+    },
+    {
+      "id": "b037",
+      "category": "bayram",
+      "text": "Bu bayram, dargınların barıştığı, gönüllerin birleştiği bir bayram olsun."
+    },
+    {
+      "id": "b038",
+      "category": "bayram",
+      "text": "Bayram sofraları sevdiklerinizle dolsun, yürekler huzurla bulsun."
+    },
+    {
+      "id": "b039",
+      "category": "bayram",
+      "text": "Rabbim bu bayramda yetimin yüzünü güldürenlerden, hayrı sevenlerden eylesin."
+    },
+    {
+      "id": "b040",
+      "category": "bayram",
+      "text": "Bayramın mânası, sevdiklerinizle birlikte yaşadığınız her anda saklıdır."
+    },
+    {
+      "id": "b041",
+      "category": "bayram",
+      "text": "Bayramınız kutlu, ömrünüz uzun, yuvanız mutlu olsun."
+    },
+    {
+      "id": "b042",
+      "category": "bayram",
+      "text": "Bu bayram bereket, sağlık ve huzur sizden hiç eksik olmasın."
+    },
+    {
+      "id": "b043",
+      "category": "bayram",
+      "text": "Bayramın tatlı heyecanı, çocukların neşesi tüm yuvaları sarsın."
+    },
+    {
+      "id": "b044",
+      "category": "bayram",
+      "text": "Rabbim bu bayramı kardeşliğimize, birliğimize vesile kılsın."
+    },
+    {
+      "id": "b045",
+      "category": "bayram",
+      "text": "Bayramınız kutlu; gözleriniz sevdiklerinizi görmekten mahrum kalmasın."
+    },
+    {
+      "id": "b046",
+      "category": "bayram",
+      "text": "Bayramın bereketi ocağınıza, sıcaklığı yüreğinize dolsun."
+    },
+    {
+      "id": "b047",
+      "category": "bayram",
+      "text": "Bu bayram, ayrılıkların sona erdiği, hasretlerin bittiği bir bayram olsun."
+    },
+    {
+      "id": "b048",
+      "category": "bayram",
+      "text": "Bayramınızı tebrik eder, hayırlı ve huzurlu günler dilerim."
+    },
+    {
+      "id": "b049",
+      "category": "bayram",
+      "text": "Bayramın rahmeti çocukların gülüşünde, büyüklerin duasında saklıdır."
+    },
+    {
+      "id": "b050",
+      "category": "bayram",
+      "text": "Rabbim bayramın hürmetine bizleri cennet bayramına da eriştirsin."
+    },
+    {
+      "id": "b051",
+      "category": "bayram",
+      "text": "Bayramın bereketi sadaka olan ellerde katlanarak büyüsün."
+    },
+    {
+      "id": "b052",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar; gönlünüz hep huzurlu, yolunuz hep hayır olsun."
+    },
+    {
+      "id": "b053",
+      "category": "bayram",
+      "text": "Bayramın huzuru gönlünüze, neşesi yüzünüze, bereketi sofranıza dolsun."
+    },
+    {
+      "id": "b054",
+      "category": "bayram",
+      "text": "Bu bayram sevdiklerinizle hep bir arada, dualarınızla hep huzurlu olun."
+    },
+    {
+      "id": "c055",
+      "category": "cuma",
+      "text": "Cuma namazına koşan ayaklar cennete yürüsün. Hayırlı Cumalar."
+    },
+    {
+      "id": "c056",
+      "category": "cuma",
+      "text": "Ezan sesine uyanan gönüllere selam olsun. Hayırlı Cumalar."
+    },
+    {
+      "id": "c057",
+      "category": "cuma",
+      "text": "Cuma sabahı doğan güneş, rızkınıza bereket getirsin."
+    },
+    {
+      "id": "c058",
+      "category": "cuma",
+      "text": "Kehf suresini okumak bu Cuma hepimize nasip olsun."
+    },
+    {
+      "id": "c059",
+      "category": "cuma",
+      "text": "Minarelerden yükselen ezana kulak veren kalplere huzur inşallah."
+    },
+    {
+      "id": "c060",
+      "category": "cuma",
+      "text": "Hayırlı Cumalar. Allah'ın kudretinden ümidinizi hiç kesmeyin."
+    },
+    {
+      "id": "c061",
+      "category": "cuma",
+      "text": "Cuma bereketi elinize, dilinize ve yolunuza eşlik etsin."
+    },
+    {
+      "id": "c062",
+      "category": "cuma",
+      "text": "Secde eden alınlar bu Cuma daha da aydınlansın."
+    },
+    {
+      "id": "c063",
+      "category": "cuma",
+      "text": "Yüreği temiz olanların Cuma duası arşa çıkar."
+    },
+    {
+      "id": "c064",
+      "category": "cuma",
+      "text": "Mübarek cumanın sabah nesimi size şifa getirsin."
+    },
+    {
+      "id": "c065",
+      "category": "cuma",
+      "text": "Bu Cuma sevdiklerinizden bir haber, umduğunuzdan bir müjde olsun."
+    },
+    {
+      "id": "c066",
+      "category": "cuma",
+      "text": "Cuma günü büyüklerinizi arayın; dualarından mahrum kalmayın."
+    },
+    {
+      "id": "c067",
+      "category": "cuma",
+      "text": "Hz. Peygamber'in (s.a.v.) sünneti üzere yaşanan bir ömür dileğiyle."
+    },
+    {
+      "id": "c068",
+      "category": "cuma",
+      "text": "Cuma vakti tutulan oruç, edilen duaya kanat olur."
+    },
+    {
+      "id": "c069",
+      "category": "cuma",
+      "text": "Aziz Cuma gününüz hayrınıza, rızkınıza, sağlığınıza vesile olsun."
+    },
+    {
+      "id": "c070",
+      "category": "cuma",
+      "text": "Besmelesiz başlamayan bir güne, tevekkülsüz bitmeyen bir akşama erişin."
+    },
+    {
+      "id": "c071",
+      "category": "cuma",
+      "text": "Cuma'nın feyzi bedeninize, selavatı gönlünüze işlesin."
+    },
+    {
+      "id": "c072",
+      "category": "cuma",
+      "text": "Mübarek Cuma günü bizleri ehli Kur'an'dan eyle Ya Rabbi."
+    },
+    {
+      "id": "c073",
+      "category": "cuma",
+      "text": "Cuma gününde okunan Yâsin kabirlerimize nur olsun."
+    },
+    {
+      "id": "c074",
+      "category": "cuma",
+      "text": "Bu Cuma günü sılayırahim için bir telefon edin, bir kapı çalın."
+    },
+    {
+      "id": "c075",
+      "category": "cuma",
+      "text": "Elinizi açtığınız her dua, Cuma hürmetine karşılık bulsun."
+    },
+    {
+      "id": "c076",
+      "category": "cuma",
+      "text": "Yanık yüreklere serinlik, bekleyen gönüllere müjde olsun bu Cuma."
+    },
+    {
+      "id": "c077",
+      "category": "cuma",
+      "text": "Cuma günü okunan salli barik sizi iki cihanda yüceltsin."
+    },
+    {
+      "id": "c078",
+      "category": "cuma",
+      "text": "Hayırlı Cumalar; cennet kokulu günlere, âmin dolu gecelere."
+    },
+    {
+      "id": "c079",
+      "category": "cuma",
+      "text": "Rabbim Cuma hürmetine niyetlerimizi halis, amellerimizi makbul kılsın."
+    },
+    {
+      "id": "c080",
+      "category": "cuma",
+      "text": "Mümin kardeşinize bir selam, bir tebessüm de Cuma sadakasıdır."
+    },
+    {
+      "id": "c081",
+      "category": "cuma",
+      "text": "Cuma gününün ilk duası anne babaya, son duası tüm müminlere olsun."
+    },
+    {
+      "id": "c082",
+      "category": "cuma",
+      "text": "Zikirle aydınlanan bir gönül, cumayla bereketlenen bir haneniz olsun."
+    },
+    {
+      "id": "c083",
+      "category": "cuma",
+      "text": "Cuma'nın manevi iklimi yüreklerinizden hiç eksilmesin."
+    },
+    {
+      "id": "c084",
+      "category": "cuma",
+      "text": "Dudağınızda Fâtiha, gönlünüzde Yâsin; Cumanız mübarek olsun."
+    },
+    {
+      "id": "c085",
+      "category": "cuma",
+      "text": "Bu Cuma sadakanız belayı, duanız kederi uzaklaştırsın inşallah."
+    },
+    {
+      "id": "c086",
+      "category": "cuma",
+      "text": "Allahümme salli alâ seyyidinâ Muhammed. Cumanız mübarek olsun."
+    },
+    {
+      "id": "c087",
+      "category": "cuma",
+      "text": "Cuma vakti yetimin başını okşayın; sevabı ömrünüze yetsin."
+    },
+    {
+      "id": "c088",
+      "category": "cuma",
+      "text": "Sahurdaki ihlas, Cuma'daki huşu sizden hiç eksik olmasın."
+    },
+    {
+      "id": "c089",
+      "category": "cuma",
+      "text": "Bu mübarek Cuma günü alın yazınız hayra dönsün Ya Rabbi."
+    },
+    {
+      "id": "c090",
+      "category": "cuma",
+      "text": "Rızkınızın helâli, ömrünüzün bereketli olduğu bir Cuma dileğiyle."
+    },
+    {
+      "id": "c091",
+      "category": "cuma",
+      "text": "Gönlünüzde bir dua, dilinizde bir selavat; Cuma budur işte."
+    },
+    {
+      "id": "c092",
+      "category": "cuma",
+      "text": "Hayırlı Cumalar. Allah bizleri şükreden kullarından eylesin."
+    },
+    {
+      "id": "c093",
+      "category": "cuma",
+      "text": "Cuma günü eve bir çiçek, bir tatlı götürün; sünnet tazelensin."
+    },
+    {
+      "id": "c094",
+      "category": "cuma",
+      "text": "Ezana icabet eden bir gönül, Rabbin rızasına koşan bir nefistir."
+    },
+    {
+      "id": "c095",
+      "category": "cuma",
+      "text": "Cuma sabahı duası zerre zerre rahmetin üstünüze yağmasıdır."
+    },
+    {
+      "id": "c096",
+      "category": "cuma",
+      "text": "Kıblenize dönün; Cuma budur. Dualarınıza âmin diyen kardeşiniz çoktur."
+    },
+    {
+      "id": "c097",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma hürmetine borçlularımıza edâ, dertlilerimize deva versin."
+    },
+    {
+      "id": "c098",
+      "category": "cuma",
+      "text": "Cuma bir muhasebe günüdür; bir tevbe, bir istiğfar eksik olmasın."
+    },
+    {
+      "id": "c099",
+      "category": "cuma",
+      "text": "Dostluğun en güzeli Cuma'da hatırlanmaktır. Sizi hatırlayan çoktur."
+    },
+    {
+      "id": "c100",
+      "category": "cuma",
+      "text": "Allah'a hamd ile başlayan cumalar hayır ile biter."
+    },
+    {
+      "id": "c101",
+      "category": "cuma",
+      "text": "Cuma rahmetinden bir damla, rızık bereketinden bir zerre yeter bize."
+    },
+    {
+      "id": "c102",
+      "category": "cuma",
+      "text": "Bu Cuma, gözü yaşlıların gözyaşı dinsin, yüreği dar olanlar ferahlansın."
+    },
+    {
+      "id": "c103",
+      "category": "cuma",
+      "text": "Cuma günü tutulan bir niyet, ömre yetecek bir hayır olur."
+    },
+    {
+      "id": "c104",
+      "category": "cuma",
+      "text": "Peygamber Efendimiz'in (s.a.v.) ümmetinden olmak büyük bir şereftir. Cumanız mübarek olsun."
+    },
+    {
+      "id": "c105",
+      "category": "cuma",
+      "text": "Cuma, kulun Rabbi ile randevusudur. Randevunuzu kaçırmayın."
+    },
+    {
+      "id": "c106",
+      "category": "cuma",
+      "text": "Rabbim bize öyle bir Cuma nasip etsin ki bereketi tüm haftaya yetsin."
+    },
+    {
+      "id": "c107",
+      "category": "cuma",
+      "text": "Selavatlarınız çoğalsın, duanız Rabbe ulaşsın; hayırlı Cumalar."
+    },
+    {
+      "id": "c108",
+      "category": "cuma",
+      "text": "Cuma namazından sonra çekilen tesbihler rızık kapılarını açar."
+    },
+    {
+      "id": "c109",
+      "category": "cuma",
+      "text": "Gönlünüze sekinet, yuvanıza afiyet indiren bir Cuma olsun."
+    },
+    {
+      "id": "c110",
+      "category": "cuma",
+      "text": "Cuma günü ettiğim dualarda sizin de adınız var. Duanız bol olsun."
+    },
+    {
+      "id": "c111",
+      "category": "cuma",
+      "text": "İbadetin tatlısı, duanın hâlisi bu Cuma sizinle olsun."
+    },
+    {
+      "id": "c112",
+      "category": "cuma",
+      "text": "Cuma sabahı besmele çekip açtığınız her kapı hayra açılsın."
+    },
+    {
+      "id": "c113",
+      "category": "cuma",
+      "text": "Bir kul için en güzel saat Cuma ezanıdır. Hayırlı Cumalar."
+    },
+    {
+      "id": "c114",
+      "category": "cuma",
+      "text": "Rabbim kalbinizdeki iman nurunu bu Cuma daha da artırsın."
+    },
+    {
+      "id": "c115",
+      "category": "cuma",
+      "text": "Dualar çoğalsın, gönüller aydınlansın; Cumanız mübarek olsun."
+    },
+    {
+      "id": "c116",
+      "category": "cuma",
+      "text": "Tevekkül sahibi olanın dualarına Cuma'da icabet edilir."
+    },
+    {
+      "id": "c117",
+      "category": "cuma",
+      "text": "Bu Cuma günü vefat edenlerimize Fatiha okumayı unutmayalım."
+    },
+    {
+      "id": "c118",
+      "category": "cuma",
+      "text": "Salihlerle oturup kalkmak Cuma'nın manasını artırır."
+    },
+    {
+      "id": "c119",
+      "category": "cuma",
+      "text": "Gözyaşıyla yapılan Cuma duasının kabulü şüphesizdir."
+    },
+    {
+      "id": "c120",
+      "category": "cuma",
+      "text": "Günah yükümüzü hafifleten, sevap terazimizi ağırlaştıran bir Cuma olsun."
+    },
+    {
+      "id": "c121",
+      "category": "cuma",
+      "text": "Cuma günü okunan İhlas sureleri kabre nur olur."
+    },
+    {
+      "id": "c122",
+      "category": "cuma",
+      "text": "Rabbim iki cihan saadetini nasip etsin; hayırlı Cumalar."
+    },
+    {
+      "id": "c123",
+      "category": "cuma",
+      "text": "Cuma'nın hürmetine çocuklarımızı salih evlatlardan eylesin Rabbim."
+    },
+    {
+      "id": "c124",
+      "category": "cuma",
+      "text": "Sünnet ehli olmanın huzurunu yaşadığınız bir Cuma olsun."
+    },
+    {
+      "id": "c125",
+      "category": "cuma",
+      "text": "Hayırlı Cumalar. Hayatınızda hayır, yolunuzda nur eksik olmasın."
+    },
+    {
+      "id": "c126",
+      "category": "cuma",
+      "text": "Cuma namazına yürüyen her adım günah silen bir hayırdır."
+    },
+    {
+      "id": "c127",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma hastalarımıza sağlık, bizlere sabır versin."
+    },
+    {
+      "id": "c128",
+      "category": "cuma",
+      "text": "Gönlünüzden geçen dua dudaklarınızdan dökülsün; Cuma bunun vaktidir."
+    },
+    {
+      "id": "c129",
+      "category": "cuma",
+      "text": "Cuma'nın sırrı kalplerde, bereketi hanededir. Cumanız mübarek olsun."
+    },
+    {
+      "id": "c130",
+      "category": "cuma",
+      "text": "Mescid yolunu bilen ayaklar cennet yolunu da bilir. Hayırlı Cumalar."
+    },
+    {
+      "id": "c131",
+      "category": "cuma",
+      "text": "Cuma rahmetiyle dolup taşan gönüllere selam olsun."
+    },
+    {
+      "id": "c132",
+      "category": "cuma",
+      "text": "Bu mübarek günde Rabbim evlerinize bereket, kalplerinize muhabbet versin."
+    },
+    {
+      "id": "c133",
+      "category": "cuma",
+      "text": "Cuma'da yapılan tevbeler için ayrı bir kapı açılır; fırsatı kaçırmayın."
+    },
+    {
+      "id": "c134",
+      "category": "cuma",
+      "text": "Ezanlar minarelerden, dualar gönüllerden yükselsin. Hayırlı Cumalar."
+    },
+    {
+      "id": "c135",
+      "category": "cuma",
+      "text": "Allah'ın rızasını kazanmanın kapısı Cuma'da ardına kadar açıktır."
+    },
+    {
+      "id": "c136",
+      "category": "cuma",
+      "text": "Cuma günü annenize, babanıza bir telefon; duaları paha biçilmezdir."
+    },
+    {
+      "id": "c137",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma hürmetine kalbinize zikir, dilinize şükür yerleştirsin."
+    },
+    {
+      "id": "c138",
+      "category": "cuma",
+      "text": "Sabah namazının feyzi, Cuma duasının bereketi size yoldaş olsun."
+    },
+    {
+      "id": "c139",
+      "category": "cuma",
+      "text": "Rabbim bizleri Cuma'yı bilen, kıymetini takdir eden kullardan eylesin."
+    },
+    {
+      "id": "c140",
+      "category": "cuma",
+      "text": "Mübarek Cumanızı tebrik ediyor, hayırlı ve bereketli bir gün diliyorum."
+    },
+    {
+      "id": "c141",
+      "category": "cuma",
+      "text": "Cuma günü hayra vesile olan elleriniz dert görmesin."
+    },
+    {
+      "id": "c142",
+      "category": "cuma",
+      "text": "Gönlü Rabb'e, dili selavata yatkın olanlara ne mutlu. Hayırlı Cumalar."
+    },
+    {
+      "id": "c143",
+      "category": "cuma",
+      "text": "Yüreğinizde iman, elinizde Kur'an; Cumanız mübarek olsun."
+    },
+    {
+      "id": "c144",
+      "category": "cuma",
+      "text": "Cuma, bir hafta boyunca biriktirdiğimiz günahların silindiği gündür."
+    },
+    {
+      "id": "c145",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma çocuklarımızın rızkını bol, ahlakını güzel kılsın."
+    },
+    {
+      "id": "c146",
+      "category": "cuma",
+      "text": "Sabah ezanıyla uyanıp Rabbine yönelen kullara ne mutlu. Hayırlı Cumalar."
+    },
+    {
+      "id": "c147",
+      "category": "cuma",
+      "text": "Cuma günü okunan her ayet kıyamette ışık olur."
+    },
+    {
+      "id": "c148",
+      "category": "cuma",
+      "text": "Gönül kapılarını Rabbe açanların Cuma'sı bereketli olur."
+    },
+    {
+      "id": "c149",
+      "category": "cuma",
+      "text": "Cuma hürmetine gönlünüzdeki hüzün dağılsın, yerini sekinet alsın."
+    },
+    {
+      "id": "c150",
+      "category": "cuma",
+      "text": "Dostlarınızla hayırlı dualar paylaşın; Cuma bunun için vardır."
+    },
+    {
+      "id": "c151",
+      "category": "cuma",
+      "text": "Rabbim bizleri Cuma'nın kıymetini bilen kullardan eylesin. Âmin."
+    },
+    {
+      "id": "c152",
+      "category": "cuma",
+      "text": "Müminin Cuma'sı, Rabbinin huzurunda bir sevgi mektubu gibidir."
+    },
+    {
+      "id": "c153",
+      "category": "cuma",
+      "text": "Sabırla edilen her dua Cuma hürmetine karşılık bulsun inşallah."
+    },
+    {
+      "id": "c154",
+      "category": "cuma",
+      "text": "Cuma sabahının ilk selamı size olsun; hayırlı Cumalar."
+    },
+    {
+      "id": "c155",
+      "category": "cuma",
+      "text": "Bu mübarek Cuma günü umudunuz tazelensin, gönlünüz ferahlasın."
+    },
+    {
+      "id": "c156",
+      "category": "cuma",
+      "text": "Rabbim Cuma hürmetine bizleri emanete hıyanet etmekten korusun."
+    },
+    {
+      "id": "c157",
+      "category": "cuma",
+      "text": "Cuma'nın feyzi eşiğinizden, bereketi sofranızdan eksik olmasın."
+    },
+    {
+      "id": "c158",
+      "category": "cuma",
+      "text": "Nurlu cumalarda aydınlanmak, âmin diyen dostlara sahip olmaktır."
+    },
+    {
+      "id": "c159",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma hürmetine dualarımızı müstecap eylesin."
+    },
+    {
+      "id": "c160",
+      "category": "cuma",
+      "text": "Gönlü zengin olanın Cuma'sı bereketli geçer. Cumanız mübarek olsun."
+    },
+    {
+      "id": "c161",
+      "category": "cuma",
+      "text": "Cuma akşamı okunan Kehf, haftalık nurun ta kendisidir."
+    },
+    {
+      "id": "c162",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma hürmetine bizi nefsimize yenik düşmekten korusun."
+    },
+    {
+      "id": "c163",
+      "category": "cuma",
+      "text": "Dualar yükselsin, gönüller birleşsin; hayırlı Cumalar."
+    },
+    {
+      "id": "c164",
+      "category": "cuma",
+      "text": "Cuma bereketi adımlarınıza, rahmet yağmuru omuzlarınıza yağsın."
+    },
+    {
+      "id": "c165",
+      "category": "cuma",
+      "text": "Salavat ile başlayan Cuma, mağfiret ile biter inşallah."
+    },
+    {
+      "id": "c166",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma sabrımızı artırsın, şükrümüzü kâmil eylesin."
+    },
+    {
+      "id": "c167",
+      "category": "cuma",
+      "text": "Cuma'yı seven kalpler cenneti seven kalplerdir. Hayırlı Cumalar."
+    },
+    {
+      "id": "c168",
+      "category": "cuma",
+      "text": "Yürekler Kâbe'ye, diller Kur'an'a dönsün bu Cuma günü."
+    },
+    {
+      "id": "c169",
+      "category": "cuma",
+      "text": "Gündüz orucu, gece namazı olan bir Cuma nasip olsun inşallah."
+    },
+    {
+      "id": "c170",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma hürmetine vatanımızı düşman şerrinden korusun."
+    },
+    {
+      "id": "c171",
+      "category": "cuma",
+      "text": "Cuma namazına koşun; zira koştuğunuz bir nuru yakalayacaksınız."
+    },
+    {
+      "id": "c172",
+      "category": "cuma",
+      "text": "Bu Cuma yüreğiniz hafiflesin, kederleriniz dağılsın; duanız çoğalsın."
+    },
+    {
+      "id": "c173",
+      "category": "cuma",
+      "text": "Annenin, babanın duasını almak Cuma'nın en güzel hediyesidir."
+    },
+    {
+      "id": "c174",
+      "category": "cuma",
+      "text": "Cuma günü yapılan bir iyilik yedi kat sevaba dönüşür."
+    },
+    {
+      "id": "c175",
+      "category": "cuma",
+      "text": "Rabbim bizleri Cuma'nın nurundan nasiplenen kullardan kılsın."
+    },
+    {
+      "id": "c176",
+      "category": "cuma",
+      "text": "Mübarek Cuma gününüzde dualar katmerli, rızıklar bereketli olsun."
+    },
+    {
+      "id": "c177",
+      "category": "cuma",
+      "text": "Cuma'yı ganimet bilen her mümin iki cihan saadetini bulur."
+    },
+    {
+      "id": "c178",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma öksüzlerin yüreğine ferahlık, yetimlerin başına sahip indirsin."
+    },
+    {
+      "id": "c179",
+      "category": "cuma",
+      "text": "Cuma'nın tadını çıkaran gönüllere selam olsun; hayırlı Cumalar."
+    },
+    {
+      "id": "c180",
+      "category": "cuma",
+      "text": "İmanın nuru, Kur'an'ın sırrı sizinle olsun bu Cuma günü."
+    },
+    {
+      "id": "c181",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma evlilerimize anlayış, bekarlarımıza hayırlı kısmet nasip etsin."
+    },
+    {
+      "id": "c182",
+      "category": "cuma",
+      "text": "Cuma günü çekilen besmele, haftanın tüm günlerini kuşatır."
+    },
+    {
+      "id": "c183",
+      "category": "cuma",
+      "text": "Rahmanî bir Cuma, rahmanî bir gönül dileğiyle; hayırlı Cumalar."
+    },
+    {
+      "id": "c184",
+      "category": "cuma",
+      "text": "Cuma kandili yanan gönüllerin ışığı hiç sönmesin."
+    },
+    {
+      "id": "c185",
+      "category": "cuma",
+      "text": "Cuma vakti Rabbim kalplerinize bir Fatiha huzuru lütfetsin."
+    },
+    {
+      "id": "c186",
+      "category": "cuma",
+      "text": "Duanız hayır, secde yeriniz nur olsun bu Cuma gününde."
+    },
+    {
+      "id": "c187",
+      "category": "cuma",
+      "text": "Rabbim Cuma hürmetine tefrikaya düşenleri birleştirsin, ayrı düşenleri kavuştursun."
+    },
+    {
+      "id": "c188",
+      "category": "cuma",
+      "text": "Cuma'nın her saniyesinde bir rahmet damlası vardır; toplayabilen kazanır."
+    },
+    {
+      "id": "c189",
+      "category": "cuma",
+      "text": "Mü'minin yüreği Cuma günü bayram yapar; bayramınız mübarek olsun."
+    },
+    {
+      "id": "c190",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma iman ile başlayıp iman ile biten bir ömür nasip etsin."
+    },
+    {
+      "id": "c191",
+      "category": "cuma",
+      "text": "Cuma gününde tutulan niyet, kabul görmesin olur mu? Hayırlı Cumalar."
+    },
+    {
+      "id": "c192",
+      "category": "cuma",
+      "text": "Selam olsun Cumanın nuruyla gönüllere huzur salan kullara."
+    },
+    {
+      "id": "c193",
+      "category": "cuma",
+      "text": "Cuma'nın rahmet iklimi yüreklerinizden hiç çekilmesin."
+    },
+    {
+      "id": "c194",
+      "category": "cuma",
+      "text": "Sabrınızın karşılığı, duanızın bereketi bu Cuma tecelli etsin."
+    },
+    {
+      "id": "c195",
+      "category": "cuma",
+      "text": "Rabbim Cuma hürmetine kalbimizi riyadan, amelimizi ucubdan korusun."
+    },
+    {
+      "id": "c196",
+      "category": "cuma",
+      "text": "Cuma'yı ibadetle süslemek cenneti nasip eden bir miraçtır."
+    },
+    {
+      "id": "c197",
+      "category": "cuma",
+      "text": "Mübarek Cuma günümüzde Rabbim mazlumların ahını almadan uzaklaştırsın."
+    },
+    {
+      "id": "c198",
+      "category": "cuma",
+      "text": "Cuma'nın feyzi ilimden, ilmin nuru amelden doğar. Hayırlı Cumalar."
+    },
+    {
+      "id": "c199",
+      "category": "cuma",
+      "text": "Gönül aynamıza cila çekelim bu Cuma; Rahman'ın tecellisi için."
+    },
+    {
+      "id": "c200",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma hürmetine gönlünüze bir dua, hayatınıza bir hayır kapısı açsın."
+    },
+    {
+      "id": "c201",
+      "category": "cuma",
+      "text": "Cuma namazını eda etmek, bir haftanın en güzel zaferidir."
+    },
+    {
+      "id": "c202",
+      "category": "cuma",
+      "text": "Yüreği iman dolu olanlar Cuma'da en zengin kullardandır."
+    },
+    {
+      "id": "c203",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma hürmetine yollarımızı açık, nasibimizi hayırlı kılsın."
+    },
+    {
+      "id": "c204",
+      "category": "cuma",
+      "text": "Bir selavat, bir Fatiha, bir istiğfar; Cuma'nın üç mücevheri."
+    },
+    {
+      "id": "c205",
+      "category": "cuma",
+      "text": "Cuma gününüzün hayırlı, duanızın müstecap olmasını diliyorum."
+    },
+    {
+      "id": "c206",
+      "category": "cuma",
+      "text": "Rabbim Cuma hürmetine dualara tutunan ellerimizi boş çevirmesin."
+    },
+    {
+      "id": "c207",
+      "category": "cuma",
+      "text": "Gönlünüz bu Cuma rahmetle dolup taşsın, hayırla ferahlansın."
+    },
+    {
+      "id": "c208",
+      "category": "cuma",
+      "text": "Cuma'nın sırrı, tevbenin hâlis niyetinde gizlidir."
+    },
+    {
+      "id": "c209",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma günü kalbimize Kur'an muhabbetini yerleştirsin."
+    },
+    {
+      "id": "c210",
+      "category": "cuma",
+      "text": "Selavatların en güzeli, duaların en makbulü Cuma'da kabul olur."
+    },
+    {
+      "id": "c211",
+      "category": "cuma",
+      "text": "Hayırlı Cumalar. Rabbim bizleri darda kalmanın şerrinden korusun."
+    },
+    {
+      "id": "c212",
+      "category": "cuma",
+      "text": "Cuma bir müminin yüzünü güldüren rahmet vesilesidir."
+    },
+    {
+      "id": "c213",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma hürmetine bizleri kendine yakın eylesin."
+    },
+    {
+      "id": "c214",
+      "category": "cuma",
+      "text": "Gönül tarlasına iman tohumu ekenlere, Cuma'da rahmet yağmuru iner."
+    },
+    {
+      "id": "c215",
+      "category": "cuma",
+      "text": "Cuma günüm hayırla başlasın diyen gönüllere selam olsun."
+    },
+    {
+      "id": "c216",
+      "category": "cuma",
+      "text": "Rabbim bu Cuma hürmetine ahlakımızı güzel, edebimizi kâmil kılsın."
+    },
+    {
+      "id": "c217",
+      "category": "cuma",
+      "text": "Mübarek Cumanız hayra, rahmete, berekete vesile olsun."
+    },
+    {
+      "id": "c218",
+      "category": "cuma",
+      "text": "Allah'tan dileriz ki bu Cuma'da bizleri cennetine ortak eylesin."
+    },
+    {
+      "id": "c219",
+      "category": "cuma",
+      "text": "Cuma'nın mübarek saatleri sizin için bir rahmet vaktine dönüşsün."
+    },
+    {
+      "id": "c220",
+      "category": "cuma",
+      "text": "Hayırlı Cumalar. Rabbim sizi ve sevdiklerinizi muhafaza eylesin."
+    },
+    {
+      "id": "k055",
+      "category": "kandil",
+      "text": "Gecenin sessizliğinde dökülen gözyaşları en saf dualardır. Kandiliniz mübarek."
+    },
+    {
+      "id": "k056",
+      "category": "kandil",
+      "text": "Regaib, rahmetin coştuğu gecedir. Rabbim bizleri bu rahmetten mahrum bırakmasın."
+    },
+    {
+      "id": "k057",
+      "category": "kandil",
+      "text": "Mirac gecesi göklere yükselen dualar arasında sizin adınız da olsun."
+    },
+    {
+      "id": "k058",
+      "category": "kandil",
+      "text": "Berat, beraat senedimizin yazıldığı gecedir. Sayfanız bembeyaz olsun."
+    },
+    {
+      "id": "k059",
+      "category": "kandil",
+      "text": "Kadir Gecesi'nin bin aydan hayırlı bereketi ömrünüze yayılsın."
+    },
+    {
+      "id": "k060",
+      "category": "kandil",
+      "text": "Mevlid-i Nebi'nin nurundan nasiplenenlere ne mutlu. Kandiliniz mübarek."
+    },
+    {
+      "id": "k061",
+      "category": "kandil",
+      "text": "Bu mübarek kandil gecesi kalbinizi arındırmak için bir fırsattır."
+    },
+    {
+      "id": "k062",
+      "category": "kandil",
+      "text": "Kandil, kulun Rabbine en yakın olduğu zamandır. Fırsatı kaçırmayın."
+    },
+    {
+      "id": "k063",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek gecede kalplerimizi birleştirsin, düşmanlıkları yok etsin."
+    },
+    {
+      "id": "k064",
+      "category": "kandil",
+      "text": "Kandil geceniz huzurlu, dualarınız makbul olsun inşallah."
+    },
+    {
+      "id": "k065",
+      "category": "kandil",
+      "text": "Mübarek kandil, geceye uyanık, dili duaya hazır kalplere hediyedir."
+    },
+    {
+      "id": "k066",
+      "category": "kandil",
+      "text": "Bu gece için ayrılan her saniye rahmet yağmurundan bir damladır."
+    },
+    {
+      "id": "k067",
+      "category": "kandil",
+      "text": "Kandil gecesinde vefat edenlerimizi unutmayalım. Bir Fatiha rica olunur."
+    },
+    {
+      "id": "k068",
+      "category": "kandil",
+      "text": "Gönlünüz bu mübarek gecede nurla yıkansın, ruhunuz ferahlasın."
+    },
+    {
+      "id": "k069",
+      "category": "kandil",
+      "text": "Mübarek kandilin feyzi kalbinize, bereketi yuvanıza sirayet etsin."
+    },
+    {
+      "id": "k070",
+      "category": "kandil",
+      "text": "Kandiliniz mübarek olsun; dualarınızı esirgemeyin, unutmayınız."
+    },
+    {
+      "id": "k071",
+      "category": "kandil",
+      "text": "Bu gece açılan rahmet kapılarından girenler arasında olalım inşallah."
+    },
+    {
+      "id": "k072",
+      "category": "kandil",
+      "text": "Kandilde okunan bir ayetin sevabı bir hayatlık hayra bedeldir."
+    },
+    {
+      "id": "k073",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek gece hürmetine duanızın kabulünü nasip eylesin."
+    },
+    {
+      "id": "k074",
+      "category": "kandil",
+      "text": "Kandil geceleri gönüllerin yıkandığı tuba ağacı gölgesidir."
+    },
+    {
+      "id": "k075",
+      "category": "kandil",
+      "text": "Mübarek gecenin nuru, her köşeye rahmet fidanı diker."
+    },
+    {
+      "id": "k076",
+      "category": "kandil",
+      "text": "Kandilin feyzi yüreğinizi ferahlatsın, dualarınız arşa ulaşsın."
+    },
+    {
+      "id": "k077",
+      "category": "kandil",
+      "text": "Bu mübarek gecede Rabbim bizi tefekkür ehli kullardan kılsın."
+    },
+    {
+      "id": "k078",
+      "category": "kandil",
+      "text": "Kandil geceniz bir bahar nesimi gibi gönlünüze huzur getirsin."
+    },
+    {
+      "id": "k079",
+      "category": "kandil",
+      "text": "Rabbim bu gecenin hürmetine kalplerimizi iman nuruyla aydınlatsın."
+    },
+    {
+      "id": "k080",
+      "category": "kandil",
+      "text": "Mübarek kandil, ümmetin kardeşliğini pekiştiren bir vesile olsun."
+    },
+    {
+      "id": "k081",
+      "category": "kandil",
+      "text": "Kandil geceniz kutlu; Rabbim size dualarınızla beraber nur indirsin."
+    },
+    {
+      "id": "k082",
+      "category": "kandil",
+      "text": "Bu mübarek gecede çocukların duasıyla aydınlanan evler çoğalsın."
+    },
+    {
+      "id": "k083",
+      "category": "kandil",
+      "text": "Kandil, Rahman'ın rahmetini cömertçe dağıttığı bereketli bir vakittir."
+    },
+    {
+      "id": "k084",
+      "category": "kandil",
+      "text": "Gecenin sessizliğinde edilen duaların kabulü daha yakındır."
+    },
+    {
+      "id": "k085",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek gece hürmetine gönlünüze iman kuvveti indirsin."
+    },
+    {
+      "id": "k086",
+      "category": "kandil",
+      "text": "Kandil gecesinde açılan her el, rahmetle dolup taşsın."
+    },
+    {
+      "id": "k087",
+      "category": "kandil",
+      "text": "Bu mübarek gecede Peygamber Efendimiz'e (s.a.v.) bir selavat ihmal edilmesin."
+    },
+    {
+      "id": "k088",
+      "category": "kandil",
+      "text": "Kandilin rahmeti hastalarımıza şifa, dertlilerimize derman olsun."
+    },
+    {
+      "id": "k089",
+      "category": "kandil",
+      "text": "Gözyaşı dökerek yapılan bir kandil duası hiçbir duadan geri kalmaz."
+    },
+    {
+      "id": "k090",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek gece hürmetine imanımızı korusun, kalbimizi döndürmesin."
+    },
+    {
+      "id": "k091",
+      "category": "kandil",
+      "text": "Kandil gecesinde bir kez bile Allah demek, bin bir hayra vesiledir."
+    },
+    {
+      "id": "k092",
+      "category": "kandil",
+      "text": "Bu mübarek geceyi ihya edenlerin yeri cennet bahçeleridir inşallah."
+    },
+    {
+      "id": "k093",
+      "category": "kandil",
+      "text": "Kandiliniz mübarek; Rabbim gönlünüzde taşıdığınız tüm hayırlı muradı nasip etsin."
+    },
+    {
+      "id": "k094",
+      "category": "kandil",
+      "text": "Mübarek gecenin sırrı, gecenin üçte birinde dökülen gözyaşında saklıdır."
+    },
+    {
+      "id": "k095",
+      "category": "kandil",
+      "text": "Kandil bir fırsattır; unutup gitmek en büyük kayıptır."
+    },
+    {
+      "id": "k096",
+      "category": "kandil",
+      "text": "Rabbim bu gecenin hürmetine bize ve sevdiklerimize huzur ve afiyet versin."
+    },
+    {
+      "id": "k097",
+      "category": "kandil",
+      "text": "Bu mübarek gecede namaz kılan, dua eden kullardan olalım inşallah."
+    },
+    {
+      "id": "k098",
+      "category": "kandil",
+      "text": "Kandilin nuru yüreklere, bereketi rızıklara yansısın."
+    },
+    {
+      "id": "k099",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek gecede bizleri şeytanın hile ve tuzaklarından korusun."
+    },
+    {
+      "id": "k100",
+      "category": "kandil",
+      "text": "Kandil gecesinde okunan Yâsin'in her harfi nurdan bir kandildir."
+    },
+    {
+      "id": "k101",
+      "category": "kandil",
+      "text": "Mübarek kandiliniz huzurlu, sabahınız hayırlı geçsin."
+    },
+    {
+      "id": "k102",
+      "category": "kandil",
+      "text": "Bu mübarek gecede Rabbim tüm İslam âlemine birlik ve beraberlik nasip etsin."
+    },
+    {
+      "id": "k103",
+      "category": "kandil",
+      "text": "Kandil, gafletten uyanmak için bir tembihtir; kulak veren kazanır."
+    },
+    {
+      "id": "k104",
+      "category": "kandil",
+      "text": "Allah'ın selamı, rahmeti ve bereketi bu kandilde üzerinize olsun."
+    },
+    {
+      "id": "k105",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek gece hürmetine bize hayırlı bir istikbal bahşetsin."
+    },
+    {
+      "id": "k106",
+      "category": "kandil",
+      "text": "Kandil gecesinde yapılan tövbeler sayfamızdaki günahları siler."
+    },
+    {
+      "id": "k107",
+      "category": "kandil",
+      "text": "Mübarek gecenin feyzi iç dünyamızı aydınlatsın, nefsimizi dizginlesin."
+    },
+    {
+      "id": "k108",
+      "category": "kandil",
+      "text": "Kandilin rahmeti memleketimize sulh, ümmetimize selamet getirsin."
+    },
+    {
+      "id": "k109",
+      "category": "kandil",
+      "text": "Bu mübarek gece kalplerin yumuşadığı, duaların kabul olduğu gecedir."
+    },
+    {
+      "id": "k110",
+      "category": "kandil",
+      "text": "Rabbim bu kandil hürmetine bizleri Kur'an'dan uzak kılmasın."
+    },
+    {
+      "id": "k111",
+      "category": "kandil",
+      "text": "Kandilde anne babamıza bir Yâsin okuyalım; en güzel hediyedir."
+    },
+    {
+      "id": "k112",
+      "category": "kandil",
+      "text": "Mübarek gecede kalbinizin durulduğu, ruhunuzun dinlendiği bir huzur dileriz."
+    },
+    {
+      "id": "k113",
+      "category": "kandil",
+      "text": "Rabbim bu kandil hürmetine dualarımızı red kapısından çevirmesin."
+    },
+    {
+      "id": "k114",
+      "category": "kandil",
+      "text": "Kandil gecesinde yapılan bir sadaka bir yıllık sevaba muadildir."
+    },
+    {
+      "id": "k115",
+      "category": "kandil",
+      "text": "Bu mübarek gecenin bereketi yuvanıza, huzuru gönlünüze yerleşsin."
+    },
+    {
+      "id": "k116",
+      "category": "kandil",
+      "text": "Rabbim bu kandil hürmetine bizleri cennet ehlinden eylesin. Âmin."
+    },
+    {
+      "id": "k117",
+      "category": "kandil",
+      "text": "Kandil geceleri bize hatırlatır: Rabbimize dönme vakti her zaman vardır."
+    },
+    {
+      "id": "k118",
+      "category": "kandil",
+      "text": "Mübarek gecede yakılan her mum, bir niyetin karşılığıdır."
+    },
+    {
+      "id": "k119",
+      "category": "kandil",
+      "text": "Rabbim bu kandil hürmetine duaları kabul, niyetleri hâlis eylesin."
+    },
+    {
+      "id": "k120",
+      "category": "kandil",
+      "text": "Kandil gecesinde iki rekât namaz, bir ömre bedeldir."
+    },
+    {
+      "id": "k121",
+      "category": "kandil",
+      "text": "Bu mübarek gecede ayakta kalan kullara cennet müjdesi vardır."
+    },
+    {
+      "id": "k122",
+      "category": "kandil",
+      "text": "Kandiliniz mübarek; Rabbim yuvanıza bereket, kalbinize huzur versin."
+    },
+    {
+      "id": "k123",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek gecede bize sabır, dualarımıza icabet lütfeylesin."
+    },
+    {
+      "id": "k124",
+      "category": "kandil",
+      "text": "Kandil geceleri hikmet-i ilahiyenin bize bir armağanıdır."
+    },
+    {
+      "id": "k125",
+      "category": "kandil",
+      "text": "Bu mübarek gecede kul ile Rabbi arasındaki perdeler incelir."
+    },
+    {
+      "id": "k126",
+      "category": "kandil",
+      "text": "Kandilde dökülen bir damla gözyaşı, bir damla cennet çeşmesidir."
+    },
+    {
+      "id": "k127",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek gece hürmetine evlatlarımızı salih olarak yetiştirmeyi nasip etsin."
+    },
+    {
+      "id": "k128",
+      "category": "kandil",
+      "text": "Kandil gecesi okunan salavat, mahşerde bize şefaat olur."
+    },
+    {
+      "id": "k129",
+      "category": "kandil",
+      "text": "Mübarek gecede arınmak isteyen kalpler Rabbinin kapısını çalsın."
+    },
+    {
+      "id": "k130",
+      "category": "kandil",
+      "text": "Rabbim bu kandil hürmetine bize ve milletimize selamet ihsan etsin."
+    },
+    {
+      "id": "k131",
+      "category": "kandil",
+      "text": "Kandil geceni tebrik eder, tüm dualarınızın kabulünü dilerim."
+    },
+    {
+      "id": "k132",
+      "category": "kandil",
+      "text": "Bu mübarek gecede Rabbim kalplerimizi nefretten, kinden arındırsın."
+    },
+    {
+      "id": "k133",
+      "category": "kandil",
+      "text": "Kandil sabahına dualarla uyanmayı nasip eylesin Rabbim. Âmin."
+    },
+    {
+      "id": "k134",
+      "category": "kandil",
+      "text": "Mübarek gecenin hürmetine hastalara acil şifalar, dertlilere hayırlı çareler."
+    },
+    {
+      "id": "k135",
+      "category": "kandil",
+      "text": "Rabbim bu gecenin hürmetine gönüllerimizi Kur'an'a yakın kılsın."
+    },
+    {
+      "id": "k136",
+      "category": "kandil",
+      "text": "Kandilde uyuyup kaldık diye kahrolmayalım; sabah namazına yetişelim."
+    },
+    {
+      "id": "k137",
+      "category": "kandil",
+      "text": "Bu mübarek gece bizi Rabbimizle buluşturan bir köprüdür."
+    },
+    {
+      "id": "k138",
+      "category": "kandil",
+      "text": "Kandiliniz mübarek olsun; darda kalanları duanızdan eksik etmeyin."
+    },
+    {
+      "id": "k139",
+      "category": "kandil",
+      "text": "Rabbim bu kandil hürmetine rızkımızı bol, ömrümüzü bereketli eylesin."
+    },
+    {
+      "id": "k140",
+      "category": "kandil",
+      "text": "Kandil gecesinin manevi ikliminden bol bol nasiplenelim inşallah."
+    },
+    {
+      "id": "k141",
+      "category": "kandil",
+      "text": "Mübarek gecede bir çocuğun alnından öpmek de bir ibadettir."
+    },
+    {
+      "id": "k142",
+      "category": "kandil",
+      "text": "Rabbim bu kandil hürmetine bizleri yalnızlığa mahkum etmesin."
+    },
+    {
+      "id": "k143",
+      "category": "kandil",
+      "text": "Kandil gecesinde okunan dualar arşa ulaşıp meleklerce karşılanır."
+    },
+    {
+      "id": "k144",
+      "category": "kandil",
+      "text": "Bu mübarek gece kulun Rabbine yaklaşma vaktidir; yaklaşalım inşallah."
+    },
+    {
+      "id": "k145",
+      "category": "kandil",
+      "text": "Kandil geceniz hayra, rahmete, mağfirete vesile olsun."
+    },
+    {
+      "id": "k146",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek gecede bize tevekkül kuvveti ihsan eylesin."
+    },
+    {
+      "id": "k147",
+      "category": "kandil",
+      "text": "Kandil bir muhasebe gecesidir; kalbimizin hesabını tutalım."
+    },
+    {
+      "id": "k148",
+      "category": "kandil",
+      "text": "Mübarek gecede göklere yükselen duaların bereketi bize de yansısın."
+    },
+    {
+      "id": "k149",
+      "category": "kandil",
+      "text": "Rabbim bu kandil hürmetine vatanımızı ve milletimizi korusun."
+    },
+    {
+      "id": "k150",
+      "category": "kandil",
+      "text": "Kandil gecesi gözü yaşlı kullar için cennet kapıları ardına kadar açıktır."
+    },
+    {
+      "id": "k151",
+      "category": "kandil",
+      "text": "Bu mübarek gecede Rabbim ayrı düşen sevdiklerimizi kavuştursun."
+    },
+    {
+      "id": "k152",
+      "category": "kandil",
+      "text": "Kandilin feyzi kulun yüreğini tazeler, nefsini dizginler."
+    },
+    {
+      "id": "k153",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek gece hürmetine dünya ve ahiret saadeti nasip etsin."
+    },
+    {
+      "id": "k154",
+      "category": "kandil",
+      "text": "Kandil gecesinde yapılan bir ziyaret, bir öpücük hayra vesiledir."
+    },
+    {
+      "id": "k155",
+      "category": "kandil",
+      "text": "Mübarek gece hürmetine dualarınız arşa, amelleriniz cennete ulaşsın."
+    },
+    {
+      "id": "k156",
+      "category": "kandil",
+      "text": "Rabbim bu kandilde gönüllerimizi muhabbetullah ile aydınlatsın."
+    },
+    {
+      "id": "k157",
+      "category": "kandil",
+      "text": "Kandil gecesinde yetim sevindirenin Rabbi de onu sevindirir."
+    },
+    {
+      "id": "k158",
+      "category": "kandil",
+      "text": "Bu mübarek gecenin feyzi ve bereketi sizden hiç eksik olmasın."
+    },
+    {
+      "id": "k159",
+      "category": "kandil",
+      "text": "Kandil geceniz hayırlara, dualarınız kabule vesile olsun."
+    },
+    {
+      "id": "k160",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek geceyi ümmet için rahmet günü kılsın."
+    },
+    {
+      "id": "k161",
+      "category": "kandil",
+      "text": "Kandil, bir sene boyunca biriktirdiğimiz günahları temizleme fırsatıdır."
+    },
+    {
+      "id": "k162",
+      "category": "kandil",
+      "text": "Bu mübarek gecede okunacak her Kur'an harfi bir yıldızdır."
+    },
+    {
+      "id": "k163",
+      "category": "kandil",
+      "text": "Rabbim bu kandil hürmetine bizi şükreden, sabreden kullardan eylesin."
+    },
+    {
+      "id": "k164",
+      "category": "kandil",
+      "text": "Kandil gecesinin rahmeti tüm müminleri kuşatsın inşallah."
+    },
+    {
+      "id": "k165",
+      "category": "kandil",
+      "text": "Mübarek geceye hazırlanan yürekler bayramı yakından hisseder."
+    },
+    {
+      "id": "k166",
+      "category": "kandil",
+      "text": "Rabbim bu kandil hürmetine gönüllerimizi Kâbesi ile buluştursun."
+    },
+    {
+      "id": "k167",
+      "category": "kandil",
+      "text": "Kandil geceniz mübarek; Rabbim sizden razı olsun."
+    },
+    {
+      "id": "k168",
+      "category": "kandil",
+      "text": "Bu mübarek gecede Rabbim kalbimizdeki yarayı sarsın, derdimize derman olsun."
+    },
+    {
+      "id": "k169",
+      "category": "kandil",
+      "text": "Kandil gecesi okunan İhlas, Kur'an'ın üçte birine bedeldir."
+    },
+    {
+      "id": "k170",
+      "category": "kandil",
+      "text": "Rabbim bu kandil hürmetine bize hâlis bir niyet, salih bir amel versin."
+    },
+    {
+      "id": "k171",
+      "category": "kandil",
+      "text": "Kandil, bir gecenin içine sığdırılmış koca bir bereket hazinesidir."
+    },
+    {
+      "id": "k172",
+      "category": "kandil",
+      "text": "Bu mübarek gecede Rabbim bizi ahirete hazır kullardan eylesin."
+    },
+    {
+      "id": "k173",
+      "category": "kandil",
+      "text": "Kandilin feyzini hayatımıza taşımak, asıl marifet budur."
+    },
+    {
+      "id": "k174",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek gece hürmetine gönlümüze fetih müjdesi indirsin."
+    },
+    {
+      "id": "k175",
+      "category": "kandil",
+      "text": "Kandil gecesi el açan kulların dualarını Rabbim reddetmez."
+    },
+    {
+      "id": "k176",
+      "category": "kandil",
+      "text": "Mübarek gecede sılayırahim yapmak sevabı kat kat artırır."
+    },
+    {
+      "id": "k177",
+      "category": "kandil",
+      "text": "Kandiliniz mübarek; bu gece unutulmasın, ihya edilsin inşallah."
+    },
+    {
+      "id": "k178",
+      "category": "kandil",
+      "text": "Rabbim bu kandil hürmetine bizi darda bırakmasın."
+    },
+    {
+      "id": "k179",
+      "category": "kandil",
+      "text": "Kandil, iman ile küfür arasındaki köprüyü tahkim eden bir fırsattır."
+    },
+    {
+      "id": "k180",
+      "category": "kandil",
+      "text": "Bu mübarek gecede Rabbim evlatlarımızı kem gözden ve dilden korusun."
+    },
+    {
+      "id": "k181",
+      "category": "kandil",
+      "text": "Kandilin bereketi gönlünüze dolsun, nuru evinize sirayet etsin."
+    },
+    {
+      "id": "k182",
+      "category": "kandil",
+      "text": "Rabbim bu kandil hürmetine yüreğimizi iman nuruyla doldursun."
+    },
+    {
+      "id": "k183",
+      "category": "kandil",
+      "text": "Kandil, Rabb'e yazılan bir tövbe mektubunun teslim edildiği gecedir."
+    },
+    {
+      "id": "k184",
+      "category": "kandil",
+      "text": "Bu mübarek gecede Rabbim kalplerimizi birbirine ısındırsın."
+    },
+    {
+      "id": "k185",
+      "category": "kandil",
+      "text": "Kandilde okunan Fâtiha, bir ömre bedel hayırlar getirir."
+    },
+    {
+      "id": "k186",
+      "category": "kandil",
+      "text": "Rabbim bu kandil hürmetine ahirette yüzümüzü ak eylesin."
+    },
+    {
+      "id": "k187",
+      "category": "kandil",
+      "text": "Kandil gecesi gönlüne sessizlik çöken kullar en çok kazananlardır."
+    },
+    {
+      "id": "k188",
+      "category": "kandil",
+      "text": "Bu mübarek gecede kalplerimiz Kâbe'ye, dualarımız arşa yönelsin."
+    },
+    {
+      "id": "k189",
+      "category": "kandil",
+      "text": "Rabbim bu kandil hürmetine üzerimizden belayı, kederi uzaklaştırsın."
+    },
+    {
+      "id": "k190",
+      "category": "kandil",
+      "text": "Kandilin huzuru bu hafta sizde misafir kalsın, gitmek istemesin."
+    },
+    {
+      "id": "k191",
+      "category": "kandil",
+      "text": "Mübarek gece hürmetine gönül yaramızı Rabbim sarıp sarmalasın."
+    },
+    {
+      "id": "k192",
+      "category": "kandil",
+      "text": "Kandil gecesinde Kâbe'yi tavaf edercesine dualar tazelensin."
+    },
+    {
+      "id": "k193",
+      "category": "kandil",
+      "text": "Rabbim bu kandil hürmetine bizleri iman ile teslim aldığı kullardan eylesin."
+    },
+    {
+      "id": "k194",
+      "category": "kandil",
+      "text": "Kandil geceniz mübarek; Rabbim hepimizden hoşnut olsun."
+    },
+    {
+      "id": "k195",
+      "category": "kandil",
+      "text": "Bu mübarek gecede Rabbim ümmet-i Muhammed'e birlik nasip etsin."
+    },
+    {
+      "id": "k196",
+      "category": "kandil",
+      "text": "Kandil, gönül aynamızı silmek için en güzel bir vesiledir."
+    },
+    {
+      "id": "k197",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek gecede bizi hâlis niyetlere eriştirsin."
+    },
+    {
+      "id": "k198",
+      "category": "kandil",
+      "text": "Kandil gecesinde her damla gözyaşı bir damla cennet rayihasıdır."
+    },
+    {
+      "id": "k199",
+      "category": "kandil",
+      "text": "Mübarek gecede bize bahşedilen rahmet hiçbir sayıya sığmaz."
+    },
+    {
+      "id": "k200",
+      "category": "kandil",
+      "text": "Rabbim bu kandil hürmetine evlerimize huzur, yüreklerimize rahmet yağdırsın."
+    },
+    {
+      "id": "k201",
+      "category": "kandil",
+      "text": "Kandilde anlatılan hayırların sonu gelmez; zira Rahman cömerttir."
+    },
+    {
+      "id": "k202",
+      "category": "kandil",
+      "text": "Bu mübarek gecede Rabbim bizi düşmanın şerrinden muhafaza eylesin."
+    },
+    {
+      "id": "k203",
+      "category": "kandil",
+      "text": "Kandil gecesinde istiğfar çekmek sayfalarımızı bembeyaz kılar."
+    },
+    {
+      "id": "k204",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek geceyi ömrümüzde bir dönüm noktası eylesin."
+    },
+    {
+      "id": "k205",
+      "category": "kandil",
+      "text": "Kandil geceniz mübarek olsun; Rabbim mağfiretini bizden esirgemesin."
+    },
+    {
+      "id": "k206",
+      "category": "kandil",
+      "text": "Bu mübarek gece hürmetine dualarımız kabule şayan olsun inşallah."
+    },
+    {
+      "id": "k207",
+      "category": "kandil",
+      "text": "Kandil, tövbe ettikçe Rabbin affına yakınlaştığımız bir geceden ibarettir."
+    },
+    {
+      "id": "k208",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek gecede gözümüzdeki yaşı, yüreğimizdeki aşkı değerlendirsin."
+    },
+    {
+      "id": "k209",
+      "category": "kandil",
+      "text": "Kandil geceleri dönüş, uyanış ve arınış vesilesidir; iyi değerlendirelim."
+    },
+    {
+      "id": "k210",
+      "category": "kandil",
+      "text": "Mübarek gecenin hürmetine Rabbim bize ve sevdiklerimize afiyet versin."
+    },
+    {
+      "id": "k211",
+      "category": "kandil",
+      "text": "Kandil gecesinde her Allah diyen dilin sahibine müjdeler olsun."
+    },
+    {
+      "id": "k212",
+      "category": "kandil",
+      "text": "Rabbim bu kandil hürmetine bizi nifaktan, kinden, hasetten uzak tutsun."
+    },
+    {
+      "id": "k213",
+      "category": "kandil",
+      "text": "Kandil gecesinde bir mumun aydınlattığı köşe, bir duanın aydınlattığı kadardır."
+    },
+    {
+      "id": "k214",
+      "category": "kandil",
+      "text": "Bu mübarek gecede Rabbim bizi haktan, hayırdan ayırmasın."
+    },
+    {
+      "id": "k215",
+      "category": "kandil",
+      "text": "Kandil geceniz mübarek; Rabbim nurlu bir ömür bahşetsin."
+    },
+    {
+      "id": "k216",
+      "category": "kandil",
+      "text": "Mübarek gece hürmetine bizi ve çocuklarımızı Kur'an ile bir ömür geçirmekle şereflendirsin."
+    },
+    {
+      "id": "k217",
+      "category": "kandil",
+      "text": "Rabbim bu mübarek gecede dualarımıza âmin diyen melekleri çoğaltsın."
+    },
+    {
+      "id": "k218",
+      "category": "kandil",
+      "text": "Kandil gecesinde Rabbin sofrasından bir lokma almak, büyük bir şereftir."
+    },
+    {
+      "id": "k219",
+      "category": "kandil",
+      "text": "Bu mübarek gece hürmetine Rabbim bizi imansız göçmekten korusun."
+    },
+    {
+      "id": "k220",
+      "category": "kandil",
+      "text": "Kandiliniz mübarek olsun; Rabbim iki cihanda sizleri aziz kılsın."
+    },
+    {
+      "id": "b055",
+      "category": "bayram",
+      "text": "Bayram sabahı tekbirlerle uyanmak nasip olsun."
+    },
+    {
+      "id": "b056",
+      "category": "bayram",
+      "text": "Arefe günü tutulan niyetler bayramda bereketlenir."
+    },
+    {
+      "id": "b057",
+      "category": "bayram",
+      "text": "Kurban kesmek fedakârlıktır; Rabbim amelinizi makbul eylesin."
+    },
+    {
+      "id": "b058",
+      "category": "bayram",
+      "text": "Ramazan bayramı bir ay süren ibadetin taçlandığı gündür. Hayırlı bayramlar."
+    },
+    {
+      "id": "b059",
+      "category": "bayram",
+      "text": "Bayram namazına koşan ayaklar cennete yaklaşır. Bayramınız mübarek."
+    },
+    {
+      "id": "b060",
+      "category": "bayram",
+      "text": "Bayram sabahı iç çeken yürekler varsa, duanızı eksik etmeyin."
+    },
+    {
+      "id": "b061",
+      "category": "bayram",
+      "text": "Çocukların yüzündeki bayram sevinci, en güzel manzaradır."
+    },
+    {
+      "id": "b062",
+      "category": "bayram",
+      "text": "Büyükler küstüğünde bayram eksik olur; küskünlükleri bitirelim."
+    },
+    {
+      "id": "b063",
+      "category": "bayram",
+      "text": "Bayramın anlamı, bir araya gelebilen sevenlerin sevincinde saklıdır."
+    },
+    {
+      "id": "b064",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine bizleri cennet bayramına da eriştirsin."
+    },
+    {
+      "id": "b065",
+      "category": "bayram",
+      "text": "Kurban, Rabbe yakınlık ve teslimiyetin sembolüdür. Kurban Bayramınız mübarek."
+    },
+    {
+      "id": "b066",
+      "category": "bayram",
+      "text": "Bayramda el öpmek bir adettir, fakat aslında bir saygı gösterisidir."
+    },
+    {
+      "id": "b067",
+      "category": "bayram",
+      "text": "Bayram sabahı komşuya selam vermek, büyüklere ziyarete gitmek güzelleşir."
+    },
+    {
+      "id": "b068",
+      "category": "bayram",
+      "text": "Uzakta olan sevdiklerin bayram duaları da gönül sofrasının bereketidir."
+    },
+    {
+      "id": "b069",
+      "category": "bayram",
+      "text": "Bayramın manevi havası size iyi gelsin, hayatınıza neşe katsın."
+    },
+    {
+      "id": "b070",
+      "category": "bayram",
+      "text": "Arefeyi Allah rızası için ihya edenlere bayram hediyesi büyüktür."
+    },
+    {
+      "id": "b071",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine vatanımıza barış, halkımıza huzur versin."
+    },
+    {
+      "id": "b072",
+      "category": "bayram",
+      "text": "Bu bayram, küskünlüklerin bittiği, sevginin çoğaldığı bir bayram olsun."
+    },
+    {
+      "id": "b073",
+      "category": "bayram",
+      "text": "Bayram sevincini yetimle paylaşan kalbin sevabı eksilmez, çoğalır."
+    },
+    {
+      "id": "b074",
+      "category": "bayram",
+      "text": "Bayram günü bir sofranın başına oturmak, büyük bir nimettir."
+    },
+    {
+      "id": "b075",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar; dualarınız arşa, sevgileriniz gönüllere ulaşsın."
+    },
+    {
+      "id": "b076",
+      "category": "bayram",
+      "text": "Ramazan Bayramı'nın tatlı bereketi tüm yıla yayılsın."
+    },
+    {
+      "id": "b077",
+      "category": "bayram",
+      "text": "Kurban Bayramı'nın hikmet dolu atmosferi yüreklerimizi fethetsin."
+    },
+    {
+      "id": "b078",
+      "category": "bayram",
+      "text": "Bayram günü kabirdekilere Fatiha okumak, en güzel hediyedir."
+    },
+    {
+      "id": "b079",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine açların karnını, susuzların yüreğini doyursun."
+    },
+    {
+      "id": "b080",
+      "category": "bayram",
+      "text": "Bayramın sıcaklığı ocağınızdan, huzuru evinizden eksik olmasın."
+    },
+    {
+      "id": "b081",
+      "category": "bayram",
+      "text": "Sevenlerin bir araya geldiği bayramlar, gönüllerin de bayramıdır."
+    },
+    {
+      "id": "b082",
+      "category": "bayram",
+      "text": "Bayram yalnız çocuklar için değildir; büyüklerin de yürekleri çocuklaşır."
+    },
+    {
+      "id": "b083",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine bizi emsalimizle, dostumuzla bir arada tutsun."
+    },
+    {
+      "id": "b084",
+      "category": "bayram",
+      "text": "Bayram günü anne babanızın duası, en büyük servettir."
+    },
+    {
+      "id": "b085",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar. Rabbim gönlünüzü ferah, nasibinizi bol etsin."
+    },
+    {
+      "id": "b086",
+      "category": "bayram",
+      "text": "Kurbanınız Rabbimizin dergâhında makbul, ameliniz sahih olsun."
+    },
+    {
+      "id": "b087",
+      "category": "bayram",
+      "text": "Ramazan'ın feyzi, bayramın sevinciyle taçlansın inşallah."
+    },
+    {
+      "id": "b088",
+      "category": "bayram",
+      "text": "Bayramın bereketi hanenize, tatlılığı dilinize, huzuru yüreğinize."
+    },
+    {
+      "id": "b089",
+      "category": "bayram",
+      "text": "Sevdikleri uzaklaşan herkese bir Fatiha, bir duayla destek olalım."
+    },
+    {
+      "id": "b090",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine çocukların yüzünü hiç soldurmasın."
+    },
+    {
+      "id": "b091",
+      "category": "bayram",
+      "text": "Bayram sabahı namazını eda etmenin huzuru hiçbir şeye değişilmez."
+    },
+    {
+      "id": "b092",
+      "category": "bayram",
+      "text": "Bu bayram hasta yatanlara şifa, yolda kalanlara selamet dileriz."
+    },
+    {
+      "id": "b093",
+      "category": "bayram",
+      "text": "Bayramın coşkusu, çocukluğumuzdaki saflığa bizi tekrar döndürsün."
+    },
+    {
+      "id": "b094",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine tüm İslam âlemine birlik nasip eylesin."
+    },
+    {
+      "id": "b095",
+      "category": "bayram",
+      "text": "Kurban bayramında okunan tekbirler kalplerimizi yumuşatıp arındırsın."
+    },
+    {
+      "id": "b096",
+      "category": "bayram",
+      "text": "Bayramda kimsesizleri ziyaret edelim; zira onların duası başkadır."
+    },
+    {
+      "id": "b097",
+      "category": "bayram",
+      "text": "Bayram sabahı dükkanın kapısı açık, hanenin sofrası zengin olsun."
+    },
+    {
+      "id": "b098",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine dualarımızı müstecap kılsın."
+    },
+    {
+      "id": "b099",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar. Gönül bağı kopmasın, hasret bitsin inşallah."
+    },
+    {
+      "id": "b100",
+      "category": "bayram",
+      "text": "Bayramın sevinci size ahiret bayramının müjdecisi olsun."
+    },
+    {
+      "id": "b101",
+      "category": "bayram",
+      "text": "Bayram sofralarının zenginliği ailenin beraberliğinde saklıdır."
+    },
+    {
+      "id": "b102",
+      "category": "bayram",
+      "text": "Kurban keserken hâlis niyet, kurbanı daha makbul kılar."
+    },
+    {
+      "id": "b103",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine bizleri darda, mahrum ve muhtaç bırakmasın."
+    },
+    {
+      "id": "b104",
+      "category": "bayram",
+      "text": "Bayram namazı, bir haftalık yorgunluğun en güzel ilacıdır."
+    },
+    {
+      "id": "b105",
+      "category": "bayram",
+      "text": "Bir çocuğun bayram sevincine ortak olmak, kalbi gençleştirir."
+    },
+    {
+      "id": "b106",
+      "category": "bayram",
+      "text": "Rabbim bu bayram hürmetine ümmetin birliğini pekiştirsin."
+    },
+    {
+      "id": "b107",
+      "category": "bayram",
+      "text": "Bayramın sıcak havası kopan gönül bağlarını yeniden diksin."
+    },
+    {
+      "id": "b108",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar; Rabbim bizi nefsimize yenik düşürmesin."
+    },
+    {
+      "id": "b109",
+      "category": "bayram",
+      "text": "Bayram sabahı okunan tekbirler, arşın zirvesine kadar yükselir."
+    },
+    {
+      "id": "b110",
+      "category": "bayram",
+      "text": "Bayramınız mübarek; yüzünüzdeki tebessüm hiç kaybolmasın."
+    },
+    {
+      "id": "b111",
+      "category": "bayram",
+      "text": "Kurbanınız kabul, duanız müstecap, niyetiniz hâlis olsun."
+    },
+    {
+      "id": "b112",
+      "category": "bayram",
+      "text": "Bayram coşkusu çocuklarla, büyüklerle dolup taşsın yuvalarda."
+    },
+    {
+      "id": "b113",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine bize sağlıkla ömür nasip etsin."
+    },
+    {
+      "id": "b114",
+      "category": "bayram",
+      "text": "Bayramın tatlı havası, Rabbe olan sevgimizi artırsın."
+    },
+    {
+      "id": "b115",
+      "category": "bayram",
+      "text": "Uzaktaki anne babanızı arayın; bayramın en güzel hediyesi sesinizdir."
+    },
+    {
+      "id": "b116",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar; Rabbim sevdiklerinizden ayrı koymasın."
+    },
+    {
+      "id": "b117",
+      "category": "bayram",
+      "text": "Bayram sofraları bereketle dolsun, gözler yaş değil sevinç damlatsın."
+    },
+    {
+      "id": "b118",
+      "category": "bayram",
+      "text": "Kurban bayramında Hz. İbrahim'in (a.s.) teslimiyetini hatırlayalım."
+    },
+    {
+      "id": "b119",
+      "category": "bayram",
+      "text": "Ramazan bayramı, bir ay emek verenin taltifi, Rahman'ın ödülüdür."
+    },
+    {
+      "id": "b120",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine bize nefis muhasebesi ve tövbe nasip etsin."
+    },
+    {
+      "id": "b121",
+      "category": "bayram",
+      "text": "Bayram günü dargınların barışması, Rabbin rızasını kazanmanın bir yoludur."
+    },
+    {
+      "id": "b122",
+      "category": "bayram",
+      "text": "Bayramın huzuru kalbi çocuk olanların yüreğine daha kolay dolar."
+    },
+    {
+      "id": "b123",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine bizleri sevenleri yanında tutsun."
+    },
+    {
+      "id": "b124",
+      "category": "bayram",
+      "text": "Bayramınız mübarek; gönlünüzden geçen hayırlı dilek kabul olsun."
+    },
+    {
+      "id": "b125",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar; bu bayram gözyaşınızı hasret değil, sevinç döksün."
+    },
+    {
+      "id": "b126",
+      "category": "bayram",
+      "text": "Ramazan bayramının zikirleri kalplerimizi arındırmaya devam etsin."
+    },
+    {
+      "id": "b127",
+      "category": "bayram",
+      "text": "Bayram bir şükür vesilesidir; nimetlerimizi gözden kaçırmayalım."
+    },
+    {
+      "id": "b128",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine ayrılanları kavuşturmayı nasip etsin."
+    },
+    {
+      "id": "b129",
+      "category": "bayram",
+      "text": "Bayram günü kimseyi kırmayan diller, cennet bahçesinin çiçekleridir."
+    },
+    {
+      "id": "b130",
+      "category": "bayram",
+      "text": "Kurban kesenin de, kesemeyenin de bayramı makbul olsun Rabbim."
+    },
+    {
+      "id": "b131",
+      "category": "bayram",
+      "text": "Bu bayram, bir telefonla, bir mesajla gönüller nemlensin."
+    },
+    {
+      "id": "b132",
+      "category": "bayram",
+      "text": "Bayramda yetim bir çocuğa verilen harçlık en makbul sadakalardandır."
+    },
+    {
+      "id": "b133",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine tefrikaya düşmüş gönülleri birleştirsin."
+    },
+    {
+      "id": "b134",
+      "category": "bayram",
+      "text": "Bayram günü bir misafir ağırlayanın evi rahmet ile dolar."
+    },
+    {
+      "id": "b135",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar; Rabbim evlatlarımızla bir araya getirsin."
+    },
+    {
+      "id": "b136",
+      "category": "bayram",
+      "text": "Bayramın coşkusu cami avlularından yuvalara taşınsın."
+    },
+    {
+      "id": "b137",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine gençlerimize salih yar, hayırlı yuvalar nasip eylesin."
+    },
+    {
+      "id": "b138",
+      "category": "bayram",
+      "text": "Bayramın feyzinden nasipdar olmak için gönüllerin hâlis olması yeterlidir."
+    },
+    {
+      "id": "b139",
+      "category": "bayram",
+      "text": "Kurban Bayramı, teslimiyetin zaferini kutladığımız gündür."
+    },
+    {
+      "id": "b140",
+      "category": "bayram",
+      "text": "Ramazan bayramı, nefsine galip gelenlerin ödül töreni gibidir."
+    },
+    {
+      "id": "b141",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine vatanımızı şeytanın şerrinden korusun."
+    },
+    {
+      "id": "b142",
+      "category": "bayram",
+      "text": "Bayram ziyaretleri, sılayırahmin en güzel uygulamasıdır."
+    },
+    {
+      "id": "b143",
+      "category": "bayram",
+      "text": "Bayramda bir dede-torun fotoğrafı, kıymetli bir hatıraya dönüşür."
+    },
+    {
+      "id": "b144",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar; Rabbim bize hayırla bayramlamayı nasip eylesin."
+    },
+    {
+      "id": "b145",
+      "category": "bayram",
+      "text": "Bayram sabahı çocukların sevinci, büyüklerin bereketidir."
+    },
+    {
+      "id": "b146",
+      "category": "bayram",
+      "text": "Rabbim bu bayram hürmetine bize sevinç üstüne sevinç yaşatsın."
+    },
+    {
+      "id": "b147",
+      "category": "bayram",
+      "text": "Kurban, sadece et değil; tevekkül ve teslimiyet sunumudur Rabb'e."
+    },
+    {
+      "id": "b148",
+      "category": "bayram",
+      "text": "Ramazan bayramı, oruçla sabrını ispat edenin şerefiyle parıldar."
+    },
+    {
+      "id": "b149",
+      "category": "bayram",
+      "text": "Bayramın tatlısı da, duası da paylaştıkça bereketlenir."
+    },
+    {
+      "id": "b150",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine gönlümüze rahmet indirsin."
+    },
+    {
+      "id": "b151",
+      "category": "bayram",
+      "text": "Bayramda kırılmış bir gönlü onarmak, bin sadakaya bedeldir."
+    },
+    {
+      "id": "b152",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar. Kapınız hep açık, yüreğiniz hep ferah olsun."
+    },
+    {
+      "id": "b153",
+      "category": "bayram",
+      "text": "Bayramların en güzeli, Rahman'ın hoşnut olduğu kul olduğumuzu idrak ettiğimizdir."
+    },
+    {
+      "id": "b154",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine rızkımıza bereket, ömrümüze bolluk versin."
+    },
+    {
+      "id": "b155",
+      "category": "bayram",
+      "text": "Bayram namazından sonra yapılan tokalaşma, sevginin işaretidir."
+    },
+    {
+      "id": "b156",
+      "category": "bayram",
+      "text": "Bayramda bir torunun dedesine sarılışı, yılları bir anda geriye alır."
+    },
+    {
+      "id": "b157",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine evlerimizi huzur yuvasına çevirsin."
+    },
+    {
+      "id": "b158",
+      "category": "bayram",
+      "text": "Bayramın bereketi doyum, huzuru kanaat, neşesi şükürledir."
+    },
+    {
+      "id": "b159",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar; Rabbim bizleri salih amelden ayırmasın."
+    },
+    {
+      "id": "b160",
+      "category": "bayram",
+      "text": "Bayram sabahı secdeye varanların gönlüne huzur kapıları açılır."
+    },
+    {
+      "id": "b161",
+      "category": "bayram",
+      "text": "Kurban bayramında beraat eylemiş müminlere müjdeler olsun."
+    },
+    {
+      "id": "b162",
+      "category": "bayram",
+      "text": "Ramazan bayramı, bir ayın hasadı; hasadınız bereketli olsun."
+    },
+    {
+      "id": "b163",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine bizi ve çocuklarımızı salihlerden eylesin."
+    },
+    {
+      "id": "b164",
+      "category": "bayram",
+      "text": "Bayramın renkleri çocukların yüzünde, duaları büyüklerin dilindedir."
+    },
+    {
+      "id": "b165",
+      "category": "bayram",
+      "text": "Bayramda küsmek yerine sarılmayı, kırmak yerine iyileştirmeyi seçelim."
+    },
+    {
+      "id": "b166",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine bize af, kullarına afiyet lütfeylesin."
+    },
+    {
+      "id": "b167",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar; Rabbim kalbinizi kırık bırakmasın."
+    },
+    {
+      "id": "b168",
+      "category": "bayram",
+      "text": "Bayram günü anne babasını arayanın duası üzerindedir."
+    },
+    {
+      "id": "b169",
+      "category": "bayram",
+      "text": "Bayram, nefsimize galebe çalmanın hediyesi olan tatlı bir andır."
+    },
+    {
+      "id": "b170",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine milletimizi düşmandan muhafaza eylesin."
+    },
+    {
+      "id": "b171",
+      "category": "bayram",
+      "text": "Bayramda selamı çok verenin, muhabbeti de çok olur."
+    },
+    {
+      "id": "b172",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar; gözümüzdeki yaş, yüreğimizdeki aşkla arınsın."
+    },
+    {
+      "id": "b173",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine dualarımızı gökyüzüne ulaştırsın."
+    },
+    {
+      "id": "b174",
+      "category": "bayram",
+      "text": "Bayram sofrasından bir tatlı, bir komşuya yollanırsa sevabı katlanır."
+    },
+    {
+      "id": "b175",
+      "category": "bayram",
+      "text": "Kurban eti, üç parçaya ayrılıp dağıtılır; bu bölüşme muhabbetin tarifidir."
+    },
+    {
+      "id": "b176",
+      "category": "bayram",
+      "text": "Ramazan bayramı, bir aylık iftihar tablomuzun açıldığı saattir."
+    },
+    {
+      "id": "b177",
+      "category": "bayram",
+      "text": "Rabbim bu bayramda bizi ateşten âzat edilenlerden eylesin."
+    },
+    {
+      "id": "b178",
+      "category": "bayram",
+      "text": "Bayramda bir tebessüm, bir hayırlı kelime; bunlar da birer sadakadır."
+    },
+    {
+      "id": "b179",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar. Rabbim sofranızı hep bereketli kılsın."
+    },
+    {
+      "id": "b180",
+      "category": "bayram",
+      "text": "Bayramın coşkusunu çocuklarla yaşamak, ruhu tazeler."
+    },
+    {
+      "id": "b181",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine anne babalarımızı hayırla çok yaşatsın."
+    },
+    {
+      "id": "b182",
+      "category": "bayram",
+      "text": "Bayram günü bir hasta ziyareti, Rabbin rızasına ortaktır."
+    },
+    {
+      "id": "b183",
+      "category": "bayram",
+      "text": "Bayramda sevenlerin gözünde parlayan ışık, en değerli mücevherdir."
+    },
+    {
+      "id": "b184",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar; Rabbim dualarımıza âmin diyen dostlar versin."
+    },
+    {
+      "id": "b185",
+      "category": "bayram",
+      "text": "Bayramda ağaç dikmek, çocuk sevindirmek, büyüğe hürmet etmek; hepsi birer hayırdır."
+    },
+    {
+      "id": "b186",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine bize hayırla yaşamayı nasip etsin."
+    },
+    {
+      "id": "b187",
+      "category": "bayram",
+      "text": "Bayram sabahı uyanıp duada buluşanlara ne mutlu."
+    },
+    {
+      "id": "b188",
+      "category": "bayram",
+      "text": "Kurbanınız Rahman'ın dergâhında nurdan bir bineğe dönüşsün."
+    },
+    {
+      "id": "b189",
+      "category": "bayram",
+      "text": "Ramazan bayramı, Kur'an'la geçirilen bir ayın sevincidir."
+    },
+    {
+      "id": "b190",
+      "category": "bayram",
+      "text": "Rabbim bu bayramda bizleri sılayırahim ehlinden eylesin."
+    },
+    {
+      "id": "b191",
+      "category": "bayram",
+      "text": "Bayram, hatıraları paylaşan yüreklerin sofrasıdır."
+    },
+    {
+      "id": "b192",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar; Rabbim karşılık beklemeden verenlerden eylesin."
+    },
+    {
+      "id": "b193",
+      "category": "bayram",
+      "text": "Bayramda bir gariba yapılan ikram, meleklerce yazılır."
+    },
+    {
+      "id": "b194",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine memleketimize huzur, halkımıza kardeşlik versin."
+    },
+    {
+      "id": "b195",
+      "category": "bayram",
+      "text": "Bayram sabahları camilerden yükselen tekbirler gönülleri titretir."
+    },
+    {
+      "id": "b196",
+      "category": "bayram",
+      "text": "Bayram günü el öpüp hayır dua almak, bir ömür bereket demektir."
+    },
+    {
+      "id": "b197",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine bizleri nimetlerinden mahrum bırakmasın."
+    },
+    {
+      "id": "b198",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar; Rabbim hasret bırakmasın, firkat yaşatmasın."
+    },
+    {
+      "id": "b199",
+      "category": "bayram",
+      "text": "Bayram günü bir iyilik yaparsan, bir ömre yeter."
+    },
+    {
+      "id": "b200",
+      "category": "bayram",
+      "text": "Kurban, Hz. İsmail'in (a.s.) teslimiyeti, Hz. İbrahim'in (a.s.) imtihanıdır."
+    },
+    {
+      "id": "b201",
+      "category": "bayram",
+      "text": "Rabbim bu bayram hürmetine gönlümüze sekinet, yuvamıza saadet versin."
+    },
+    {
+      "id": "b202",
+      "category": "bayram",
+      "text": "Bayram sabahının nurlu iklimi yüzlerinizden hiç eksik olmasın."
+    },
+    {
+      "id": "b203",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar. Rabbim evlatlarınızdan hayır görmeyi nasip eylesin."
+    },
+    {
+      "id": "b204",
+      "category": "bayram",
+      "text": "Bayram bir aynadır; ne kadar sevgi biriktirdiğimizi gösterir."
+    },
+    {
+      "id": "b205",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine yetim çocukları öksüz kalmaktan korusun."
+    },
+    {
+      "id": "b206",
+      "category": "bayram",
+      "text": "Bayramın feyzi ömrünüzün her gününe bir lütuf olarak sirayet etsin."
+    },
+    {
+      "id": "b207",
+      "category": "bayram",
+      "text": "Kurban bayramında hacca gidenlere selametli dönüşler."
+    },
+    {
+      "id": "b208",
+      "category": "bayram",
+      "text": "Ramazan bayramı orucun ödülü, sabrın zaferidir."
+    },
+    {
+      "id": "b209",
+      "category": "bayram",
+      "text": "Rabbim bu bayram hürmetine bizleri ihmalkâr kullardan eylemesin."
+    },
+    {
+      "id": "b210",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar. Gönül bağlarınız hiç kopmasın, dualarınız hiç kesilmesin."
+    },
+    {
+      "id": "b211",
+      "category": "bayram",
+      "text": "Bayramda sofrasına yetimi oturtan, Rabbin sofrasına çağrılır."
+    },
+    {
+      "id": "b212",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine çocuklarımızı hayırlı yaşlara eriştirsin."
+    },
+    {
+      "id": "b213",
+      "category": "bayram",
+      "text": "Bayramın feyzi, tekbirlerin verdiği huzurla yüreklere işler."
+    },
+    {
+      "id": "b214",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar; Rabbim bize, size ve tüm İslam âlemine afiyet versin."
+    },
+    {
+      "id": "b215",
+      "category": "bayram",
+      "text": "Bayramı evlatlarıyla geçirenlere ne mutlu; haline şükredenler kazananlardır."
+    },
+    {
+      "id": "b216",
+      "category": "bayram",
+      "text": "Rabbim bayram hürmetine küskünleri barıştırsın, kırgınları kavuştursun."
+    },
+    {
+      "id": "b217",
+      "category": "bayram",
+      "text": "Bayramınız kutlu, yuvanız umutlu, sofranız bereketli olsun."
+    },
+    {
+      "id": "b218",
+      "category": "bayram",
+      "text": "Hayırlı bayramlar; Rabbim bizi ve sevdiklerimizi sağlıkla bayramlara ulaştırsın."
+    },
+    {
+      "id": "b219",
+      "category": "bayram",
+      "text": "Bayramların en güzeli, cennet bayramı olsun inşallah. Âmin."
+    },
+    {
+      "id": "b220",
+      "category": "bayram",
+      "text": "Bayram, Rahman'ın kullarına açtığı bir rahmet kapısıdır; o kapıya varanlara ne mutlu."
+    }
   ]
 }
